@@ -1,0 +1,748 @@
+Accession	Source Database	Name	Experiment Type	Resolution	Chains	Proteins	Protein Length	Structure Location	matches
+1a7u	pdb	CHLOROPEROXIDASE T	x-ray	1.75	A;B	o31168;o31168	278;278	2..278;2..278	26..264;26..264
+1a88	pdb	CHLOROPEROXIDASE L	x-ray	1.9	A;B;C	p49323;p49323;p49323	276;276;276	2..276;2..276;2..276	24..254;24..254;24..254
+1a8q	pdb	BROMOPEROXIDASE A1	x-ray	1.75	A	p33912	275	2..275	22..255
+1a8s	pdb	CHLOROPEROXIDASE F/PROPIONATE COMPLEX	x-ray	1.8	A	o31158	274	2..274	22..254
+1a8u	pdb	CHLOROPEROXIDASE T/BENZOATE COMPLEX	x-ray	1.6	A;B	o31168;o31168	278;278	2..278;2..278	26..264;26..264
+1azw	pdb	PROLINE IMINOPEPTIDASE FROM XANTHOMONAS CAMPESTRIS PV. CITRI	x-ray	2.7	A;B	p52279;p52279	313;313	1..313;1..313	35..298;35..298
+1b6g	pdb	HALOALKANE DEHALOGENASE AT PH 5.0 CONTAINING CHLORIDE	x-ray	1.15	A	p22643	310	1..310	49..295
+1be0	pdb	HALOALKANE DEHALOGENASE AT PH 5.0 CONTAINING ACETIC ACID	x-ray	1.96	A	p22643	310	1..310	49..295
+1bee	pdb	HALOALKANE DEHALOGENASE MUTANT WITH TRP 175 REPLACED BY TYR	x-ray	2.6	A	p22643	310	1..310	49..295
+1bez	pdb	HALOALKANE DEHALOGENASE MUTANT WITH TRP 175 REPLACED BY TYR AT PH 5	x-ray	2.1	A	p22643	310	1..310	49..295
+1bn6	pdb	HALOALKANE DEHALOGENASE FROM A RHODOCOCCUS SPECIES	x-ray	1.5	A	p59336	294	1..294	34..158
+1bn7	pdb	HALOALKANE DEHALOGENASE FROM A RHODOCOCCUS SPECIES	x-ray	1.5	A	p59336	294	1..294	34..158
+1bro	pdb	BROMOPEROXIDASE A2	x-ray	2.05	A;B	p29715;p29715	278;278	2..278;2..278	26..264;26..264
+1brt	pdb	BROMOPEROXIDASE A2 MUTANT M99T	x-ray	1.5	A	p29715	278	2..278	26..264
+1c4x	pdb	2-HYDROXY-6-OXO-6-PHENYLHEXA-2,4-DIENOATE HYDROLASE (BPHD) FROM RHODOCOCCUS SP. STRAIN RHA1	x-ray	2.4	A	q75wn8	285	1..285	32..273
+1cij	pdb	HALOALKANE DEHALOGENASE SOAKED WITH HIGH CONCENTRATION OF BROMIDE	x-ray	2.3	A	p22643	310	1..1,3..310	49..295
+1cqw	pdb	NAI COCRYSTALLISED WITH HALOALKANE DEHALOGENASE FROM A RHODOCOCCUS SPECIES	x-ray	1.5	A	p59336	294	4..293	34..158
+1cqz	pdb	CRYSTAL STRUCTURE OF MURINE SOLUBLE EPOXIDE HYDROLASE.	x-ray	2.8	A;B	p34914;p34914	554;554	1..554;1..554	257..530;257..530
+1cr6	pdb	CRYSTAL STRUCTURE OF MURINE SOLUBLE EPOXIDE HYDROLASE COMPLEXED WITH CPU INHIBITOR	x-ray	2.8	A;B	p34914;p34914	554;554	1..554;1..554	257..530;257..530
+1cv2	pdb	Hydrolytic haloalkane dehalogenase linb from sphingomonas paucimobilis UT26 AT 1.6 A resolution	x-ray	1.58	A	d4z2g1	296	1..296	31..155
+1cvl	pdb	CRYSTAL STRUCTURE OF BACTERIAL LIPASE FROM CHROMOBACTERIUM VISCOSUM ATCC 6918	x-ray	1.6	A	p0dub9	319	1..319	10..288
+1d07	pdb	Hydrolytic haloalkane dehalogenase linb from sphingomonas paucimobilis UT26 with 1,3-propanediol, a product of debromidation of dibrompropane, at 2.0A resolution	x-ray	2	A	d4z2g1	296	1..296	31..155
+1dwo	pdb	Crystal Structure of Hydroxynitrile Lyase from Manihot esculenta in Complex with Substrates Acetone and Chloroacetone:Implications for the Mechanism of Cyanogenesis	x-ray	2.2	A;B	p52705;p52705	258;258	2..258;2..258	5..242;5..242
+1dwp	pdb	Crystal Structure of Hydroxynitrile Lyase from Manihot esculenta at 2.2 Angstrom Resolution	x-ray	2.2	A;B	p52705;p52705	258;258	2..258;2..258	5..242;5..242
+1dwq	pdb	Crystal Structure of Hydroxynitrile Lyase from Manihot esculenta in Complex with Substrates Acetone and Chloroacetone:Implications for the Mechanism of Cyanogenesis	x-ray	2.2	A;B	p52705;p52705	258;258	2..258;2..258	5..242;5..242
+1e89	pdb	ON THE MECHANISM OF CYANOGENESIS CATALYZED BY HYDROXYNITRILE LYASE FROM MANIHOT ESCULENTA. CRYSTAL STRUCTURE OF ACTIVE SITE MUTANT SER80ALA IN COMPLEX WITH ACETONE CYANOHYDRIN	x-ray	2.1	A;B	p52705;p52705	258;258	1..258;1..258	5..242;5..242
+1e8d	pdb	MECHANISTIC ASPECTS OF CYANOGENESIS FROM ACTIVE SITE MUTANT SER80ALA OF HYDROXYNITRILE LYASE FROM MANIHOT ESCULENTA IN COMPLEX WITH ACETONE CYANOHYDRIN	x-ray	2.2	A;B	p52705;p52705	258;258	2..258;2..258	5..242;5..242
+1eb8	pdb	Structure Determinants of Substrate Specificity of Hydroxynitrile Lyase from Manihot esculenta	x-ray	2.1	A;B	p52705;p52705	258;258	1..258;1..258	5..242;5..242
+1eb9	pdb	Structure Determinants of Substrate Specificity of Hydroxynitrile Lyase from Manihot esculenta	x-ray	2.1	A;B	p52705;p52705	258;258	1..258;1..258	5..242;5..242
+1edb	pdb	CRYSTALLOGRAPHIC AND FLUORESCENCE STUDIES OF THE INTERACTION OF HALOALKANE DEHALOGENASE WITH HALIDE IONS: STUDIES WITH HALIDE COMPOUNDS REVEAL A HALIDE BINDING SITE IN THE ACTIVE SITE	x-ray	2.01	A	p22643	310	1..310	49..295
+1edd	pdb	CRYSTALLOGRAPHIC AND FLUORESCENCE STUDIES OF THE INTERACTION OF HALOALKANE DEHALOGENASE WITH HALIDE IONS: STUDIES WITH HALIDE COMPOUNDS REVEAL A HALIDE BINDING SITE IN THE ACTIVE SITE	x-ray	2.19	A	p22643	310	1..310	49..295
+1ede	pdb	REFINED X-RAY STRUCTURES OF HALOALKANE DEHALOGENASE AT PH 6.2 AND PH 8.2 AND IMPLICATIONS FOR THE REACTION MECHANISM	x-ray	1.9	A	p22643	310	1..310	49..295
+1ehy	pdb	X-ray structure of the epoxide hydrolase from agrobacterium radiobacter ad1	x-ray	2.1	A;B;C;D	o31243;o31243;o31243;o31243	294;294;294;294	1..294;1..294;1..294;1..294	30..129;30..129;30..129;30..129
+1ek1	pdb	CRYSTAL STRUCTURE OF MURINE SOLUBLE EPOXIDE HYDROLASE COMPLEXED WITH CIU INHIBITOR	x-ray	3.1	A;B	p34914;p34914	554;554	1..554;1..554	257..530;257..530
+1ek2	pdb	CRYSTAL STRUCTURE OF MURINE SOLUBLE EPOXIDE HYDROLASE COMPLEXED WITH CDU INHIBITOR	x-ray	3	A;B	p34914;p34914	554;554	1..554;1..554	257..530;257..530
+1ex9	pdb	CRYSTAL STRUCTURE OF THE PSEUDOMONAS AERUGINOSA LIPASE COMPLEXED WITH RC-(RP,SP)-1,2-DIOCTYLCARBAMOYL-GLYCERO-3-O-OCTYLPHOSPHONATE	x-ray	2.54	A	p26876	311	27..311	35..280
+1g42	pdb	STRUCTURE OF 1,3,4,6-TETRACHLORO-1,4-CYCLOHEXADIENE HYDROLASE (LINB) FROM SPHINGOMONAS PAUCIMOBILIS COMPLEXED WITH 1,2-DICHLOROPROPANE	x-ray	1.8	A	d4z2g1	296	1..296	31..155
+1g4h	pdb	LINB COMPLEXED WITH BUTAN-1-OL	x-ray	1.8	A	d4z2g1	296	1..296	31..155
+1g5f	pdb	STRUCTURE OF LINB COMPLEXED WITH 1,2-DICHLOROETHANE	x-ray	1.8	A	d4z2g1	296	1..296	31..155
+1hde	pdb	HALOALKANE DEHALOGENASE MUTANT WITH PHE 172 REPLACED WITH TRP	x-ray	2.7	A;B	p22643;p22643	310;310	1..310;1..310	49..295;49..295
+1hkh	pdb	unligated gamma lactamase from an Aureobacterium species	x-ray	1.73	A;B	q8gjp7;q8gjp7	280;280	2..280;2..280	26..266;26..266
+1hl7	pdb	Gamma lactamase from an Aureobacterium species in complex with 3a,4,7,7a-tetrahydro-benzo [1,3] dioxol-2-one	x-ray	1.73	A;B	q8gjp7;q8gjp7	280;280	2..280;2..280	26..266;26..266
+1hlg	pdb	CRYSTAL STRUCTURE OF HUMAN GASTRIC LIPASE	x-ray	3	A;B	p07098;p07098	398;398	28..398;28..398	78..377;78..377
+1hqd	pdb	PSEUDOMONAS CEPACIA LIPASE COMPLEXED WITH TRANSITION STATE ANALOGUE OF 1-PHENOXY-2-ACETOXY BUTANE	x-ray	2.3	A	p22088	364	45..364	54..266
+1imj	pdb	CRYSTAL STRUCTURE OF THE HUMAN CCG1/TAFII250-INTERACTING FACTOR B (CIB)	x-ray	2.2	A	q96iu4	210	1..210	35..119
+1iun	pdb	meta-Cleavage product hydrolase from Pseudomonas fluorescens IP01 (CumD) S103A mutant hexagonal	x-ray	2.8	A;B	p96965;p96965	282;282	1..282;1..282	27..257;27..257
+1iuo	pdb	meta-Cleavage product hydrolase from Pseudomonas fluorescens IP01 (CumD) S103A mutant complexed with acetates	x-ray	2	A	p96965	282	1..282	27..257
+1iup	pdb	meta-Cleavage product hydrolase from Pseudomonas fluorescens IP01 (CumD) S103A mutant complexed with isobutyrates	x-ray	1.6	A	p96965	282	1..282	27..257
+1iz7	pdb	Re-refinement of the structure of hydrolytic haloalkane dehalogenase linb from sphingomonas paucimobilis UT26 AT 1.6 A resolution	x-ray	1.58	A	d4z2g1	296	2..296	31..155
+1iz8	pdb	Re-refinement of the structure of hydrolytic haloalkane dehalogenase linb from sphingomonas paucimobilis UT26 with 1,3-propanediol, a product of debromidation of dibrompropane, at 2.0A resolution	x-ray	2	A	d4z2g1	296	2..296	31..155
+1j1i	pdb	Crystal structure of a His-tagged Serine Hydrolase Involved in the Carbazole Degradation (CarC enzyme)	x-ray	1.86	A	q84ii3	290	1..284	39..273
+1k5p	pdb	Hydrolytic haloalkane dehalogenase LINB from sphingomonas paucimobilis UT26 at 1.8A resolution	x-ray	1.8	A	d4z2g1	296	2..296	31..155
+1k63	pdb	Complex of hydrolytic haloalkane dehalogenase linb from sphingomonas paucimobilis with UT26 2-BROMO-2-PROPENE-1-OL at 1.8A resolution	x-ray	1.8	A	d4z2g1	296	2..296	31..155
+1k6e	pdb	COMPLEX OF HYDROLYTIC HALOALKANE DEHALOGENASE LINB FROM SPHINGOMONAS PAUCIMOBILIS UT26 WITH 1,2-PROPANEDIOL (PRODUCT OF DEHALOGENATION OF 1,2-DIBROMOPROPANE) AT 1.85A	x-ray	1.85	A	d4z2g1	296	2..296	31..155
+1k8q	pdb	CRYSTAL STRUCTURE OF DOG GASTRIC LIPASE IN COMPLEX WITH A PHOSPHONATE INHIBITOR	x-ray	2.7	A;B	p80035;p80035	398;398	20..396;20..396	82..377;82..377
+1m33	pdb	Crystal Structure of BioH at 1.7 A	x-ray	1.7	A	p13001	256	1..256	15..242
+1mj5	pdb	LINB (haloalkane dehalogenase) from sphingomonas paucimobilis UT26 at atomic resolution	x-ray	0.95	A	d4z2g1	296	1..296	31..155
+1mt3	pdb	Crystal Structure of the Tricorn Interacting Factor Selenomethionine-F1	x-ray	2	A	p96084	293	1..293	55..70,101..114,115..128
+1mtz	pdb	Crystal Structure of the Tricorn Interacting Factor F1	x-ray	1.8	A	p96084	293	1..293	55..70,101..114,115..128
+1mu0	pdb	Crystal Structure of the Tricorn Interacting Factor F1 Complex with PCK	x-ray	2.4	A	p96084	293	1..293	55..70,101..114,115..128
+1oil	pdb	STRUCTURE OF LIPASE	x-ray	2.1	A;B	p22088;p22088	364;364	45..364;45..364	54..266;54..266
+1q0r	pdb	Crystal structure of aclacinomycin methylesterase (RdmC) with bound product analogue, 10-decarboxymethylaclacinomycin T (DcmaT)	x-ray	1.45	A	q54528	298	1..298	24..277
+1q0z	pdb	Crystal structure of aclacinomycin methylesterase (RdmC) with bound product analogue, 10-decarboxymethylaclacinomycin A (DcmA)	x-ray	1.95	A	q54528	298	1..298	24..277
+1qge	pdb	NEW CRYSTAL FORM OF PSEUDOMONAS GLUMAE (FORMERLY CHROMOBACTERIUM VISCOSUM ATCC 6918) LIPASE	x-ray	1.7	D;E	p0dub9;p0dub9	319;319	1..222;223..319	10..288;10..288
+1qj4	pdb	HYDROXYNITRILE-LYASE FROM HEVEA BRASILIENSIS AT ATOMIC RESOLUTION	x-ray	1.1	A	p52704	257	1..257	5..241
+1qtr	pdb	CRYSTAL STRUCTURE ANALYSIS OF THE PROLYL AMINOPEPTIDASE FROM SERRATIA MARCESCENS	x-ray	2.32	A	o32449	317	1..317	41..296
+1r3d	pdb	Crystal structure of protein VC1974 from Vibrio cholerae, Pfam abhydrolase	x-ray	1.9	A	q9kqm4	263	2..263	18..252
+1s8o	pdb	Human soluble Epoxide Hydrolase	x-ray	2.6	A	p34913	555	1..555	259..531
+1sc9	pdb	Hydroxynitrile Lyase from Hevea brasiliensis in complex with the natural substrate acetone cyanohydrin	x-ray	1.8	A	p52704	257	1..257	5..241
+1sci	pdb	K236L mutant of hydroxynitrile lyase from Hevea brasiliensis	x-ray	2.18	A	p52704	257	1..257	5..241
+1sck	pdb	K236L mutant of hydroxynitrile lyase from Hevea brasiliensis in complex with acetone	x-ray	1.7	A	p52704	257	1..257	5..241
+1scq	pdb	K236L mutant of hydroxynitrile lyase from Hevea brasiliensis in complex with acetonecyanohydrin	x-ray	2.9	A	p52704	257	1..257	5..241
+1tah	pdb	THE CRYSTAL STRUCTURE OF TRIACYLGLYCEROL LIPASE FROM PSEUDOMONAS GLUMAE REVEALS A PARTIALLY REDUNDANT CATALYTIC ASPARTATE	x-ray	3	A;B;C;D	p0dub8;p0dub8;p0dub8;p0dub8	358;358;358;358	41..358;41..358;41..358;41..358	49..327;49..327;49..327;49..327
+1u2e	pdb	Crystal Structure of the C-C bond hydrolase MhpC	x-ray	2.1	A;B;C;D	p77044;p77044;p77044;p77044	288;288;288;288	1..288;1..288;1..288;1..288	38..279;38..279;38..279;38..279
+1uk6	pdb	Crystal structure of a meta-cleavage product hydrolase (CumD) complexed with propionate	x-ray	1.95	A	p96965	282	1..282	27..257
+1uk7	pdb	Crystal structure of a meta-cleavage product hydrolase (CumD) complexed with n-butyrate	x-ray	1.7	A	p96965	282	1..282	27..257
+1uk8	pdb	Crystal structure of a meta-cleavage product hydrolase (CumD) complexed with n-valerate	x-ray	1.6	A	p96965	282	1..282	27..257
+1uk9	pdb	Crystal structure of a meta-cleavage product hydrolase (CumD) complexed with isovalerate	x-ray	1.8	A	p96965	282	1..282	27..257
+1uka	pdb	Crystal structure of a meta-cleavage product hydrolase (CumD) complexed with (S)-2-methylbutyrate	x-ray	1.7	A	p96965	282	1..282	27..257
+1ukb	pdb	Crystal structure of a meta-cleavage product hydrolase (CumD) complexed with benzoate	x-ray	1.8	A	p96965	282	1..282	27..257
+1va4	pdb	Pseudomonas fluorescens aryl esterase	x-ray	1.804	A;B;C;D;E;F	p22862;p22862;p22862;p22862;p22862;p22862	272;272;272;272;272;272	2..272;2..272;2..272;2..272;2..272;2..272	21..253;21..253;21..253;21..253;21..253;21..253
+1vj5	pdb	Human soluble Epoxide Hydrolase- N-cyclohexyl-N'-(4-iodophenyl)urea complex	x-ray	2.35	A	p34913	555	1..555	259..531
+1wm1	pdb	Crystal Structure of Prolyl Aminopeptidase, Complex with Pro-TBODA	x-ray	2.1	A	o32449	317	1..317	41..296
+1wom	pdb	Crystal structure of RsbQ	x-ray	2.5	A;B	o07015;o07015	269;269	5..269;5..269	23..259;23..259
+1wpr	pdb	Crystal structure of RsbQ inhibited by PMSF	x-ray	2.6	A;B	o07015;o07015	269;269	5..269;5..269	23..259;23..259
+1x2b	pdb	The crystal structure of prolyl aminopeptidase complexed with Sar-TBODA	x-ray	2.4	A	o32449	317	1..317	41..296
+1x2e	pdb	The crystal structure of prolyl aminopeptidase complexed with Ala-TBODA	x-ray	2.4	A	o32449	317	1..317	41..296
+1xkl	pdb	Crystal Structure of Salicylic Acid-binding Protein 2 (SABP2) from Nicotiana tabacum, NESG Target AR2241	x-ray	2	A;B;C;D	q6rya0;q6rya0;q6rya0;q6rya0	260;260;260;260	1..260;1..260;1..260;1..260	7..246;7..246;7..246;7..246
+1xqv	pdb	Crystal structure of inactive F1-mutant G37A	x-ray	2.3	A	p96084	293	1..293	55..70,101..114,115..128
+1xqw	pdb	Crystal structure of F1-mutant S105A complex with PHE-LEU	x-ray	2	A	p96084	293	1..293	55..70,101..114,115..128
+1xqx	pdb	Crystal structure of F1-mutant S105A complex with PCK	x-ray	2.1	A	p96084	293	1..293	55..70,101..114,115..128
+1xqy	pdb	Crystal structure of F1-mutant S105A complex with PRO-LEU-GLY-GLY	x-ray	3.2	A	p96084	293	1..293	55..70,101..114,115..128
+1xrl	pdb	Crystal structure of active site F1-mutant Y205F complex with inhibitor PCK	x-ray	1.82	A	p96084	293	1..293	55..70,101..114,115..128
+1xrm	pdb	Crystal structure of active site F1-mutant E213Q soaked with peptide Ala-Phe	x-ray	2.7	A	p96084	293	1..293	55..70,101..114,115..128
+1xrn	pdb	Crystal structure of active site F1-mutant E213Q soaked with peptide Phe-Ala	x-ray	2.8	A	p96084	293	1..293	55..70,101..114,115..128
+1xro	pdb	Crystal structure of active site F1-mutant E213Q soaked with peptide Phe-Leu	x-ray	1.8	A	p96084	293	1..293	55..70,101..114,115..128
+1xrp	pdb	Crystal structure of active site F1-mutant E213Q soaked with peptide Pro-Leu-Gly-Gly	x-ray	2.3	A	p96084	293	1..293	55..70,101..114,115..128
+1xrq	pdb	Crystal structure of active site F1-mutant E245Q soaked with peptide Phe-Leu	x-ray	2.8	A	p96084	293	1..293	55..70,101..114,115..128
+1xrr	pdb	Crystal structure of active site F1-mutant E245Q soaked with peptide Pro-Pro	x-ray	2.4	A	p96084	293	1..293	55..70,101..114,115..128
+1y37	pdb	Structure of Fluoroacetate Dehalogenase from Burkholderia sp. FA1	x-ray	1.5	A;B	q1ju72;q1ju72	304;304	1..304;1..304	26..151;26..151
+1y7h	pdb	Structural and biochemical studies identify tobacco SABP2 as a methylsalicylate esterase and further implicate it in plant innate immunity, Northeast Structural Genomics Target AR2241	x-ray	2.52	A;B;C;D;E;F;G;H	q6rya0;q6rya0;q6rya0;q6rya0;q6rya0;q6rya0;q6rya0;q6rya0	260;260;260;260;260;260;260;260	1..260;1..260;1..260;1..260;1..260;1..260;1..260;1..260	7..246;7..246;7..246;7..246;7..246;7..246;7..246;7..246
+1y7i	pdb	Structural and biochemical studies identify tobacco SABP2 as a methylsalicylate esterase and further implicate it in plant innate immunity, Northeast Structural Genomics Target AR2241	x-ray	2.1	A;B	q6rya0;q6rya0	260;260	1..260;1..260	7..246;7..246
+1yas	pdb	HYDROXYNITRILE LYASE COMPLEXED WITH HISTIDINE	x-ray	1.9	A	p52704	257	1..257	5..241
+1yb6	pdb	Hydroxynitrile lyase from hevea brasiliensis in complex with mandelonitrile	x-ray	1.54	A	p52704	257	2..257	5..241
+1yb7	pdb	Hydroxynitrile lyase from hevea brasiliensis in complex with 2,3-dimethyl-2-hydroxy-butyronitrile	x-ray	1.76	A	p52704	257	2..257	5..241
+1ys1	pdb	Burkholderia cepacia lipase complexed with hexylphosphonic acid (R)-2-methyl-3-phenylpropyl ester	x-ray	1.1	X	p22088	364	45..364	54..266
+1ys2	pdb	Burkholderia cepacia lipase complexed with hexylphosphonic acid (S) 2-methyl-3-phenylpropyl ester	x-ray	1.5	X	p22088	364	45..364	54..266
+1zd2	pdb	Human soluble epoxide hydrolase 4-(3-cyclohexyluriedo)-ethanoic acid complex	x-ray	3	P	p34913	555	1..555	259..531
+1zd3	pdb	Human soluble epoxide hydrolase 4-(3-cyclohexyluriedo)-butyric acid complex	x-ray	2.3	A	p34913	555	1..555	259..531
+1zd4	pdb	Human soluble epoxide hydrolase 4-(3-cyclohexyluriedo)-hexanoic acid complex	x-ray	2.7	A	p34913	555	1..555	259..531
+1zd5	pdb	Human soluble epoxide hydrolase 4-(3-cyclohexyluriedo)-heptanoic acid complex	x-ray	2.6	A	p34913	555	1..555	259..531
+1zoi	pdb	Crystal Structure of a Stereoselective Esterase from Pseudomonas putida IFO12996	x-ray	1.6	A;B;C	q3hwu8;q3hwu8;q3hwu8	276;276;276	1..276;1..276;1..276	23..256;23..256;23..256
+2b61	pdb	Crystal Structure of Homoserine Transacetylase	x-ray	1.65	A	p45131	358	1..358	41..343
+2bfn	pdb	The crystal structure of the complex of the haloalkane dehalogenase LinB with the product of dehalogenation reaction 1,2-dichloropropane.	x-ray	1.6	A	d4z2g1	296	1..296	31..155
+2cjp	pdb	Structure of potato (Solanum tuberosum) epoxide hydrolase I (StEH1)	x-ray	1.95	A;B	q41415;q41415	321;321	1..321;1..321	25..302;25..302
+2d0d	pdb	Crystal Structure of a Meta-cleavage Product Hydrolase (CumD) A129V Mutant	x-ray	1.65	A	p96965	282	1..282	27..257
+2dhc	pdb	CRYSTALLOGRAPHIC ANALYSIS OF THE CATALYTIC MECHANISM OF HALOALKANE DEHALOGENASE	x-ray	2.3	A	p22643	310	1..310	49..295
+2dhd	pdb	CRYSTALLOGRAPHIC ANALYSIS OF THE CATALYTIC MECHANISM OF HALOALKANE DEHALOGENASE	x-ray	2.13	A	p22643	310	1..310	49..295
+2dhe	pdb	CRYSTALLOGRAPHIC ANALYSIS OF THE CATALYTIC MECHANISM OF HALOALKANE DEHALOGENASE	x-ray	2.13	A	p22643	310	1..310	49..295
+2e3j	pdb	The crystal structure of epoxide hydrolase B (Rv1938) from mycobacterium tuberculosis at 2.1 angstrom	x-ray	2.1	A	p95276	356	2..356	28..129
+2eda	pdb	CRYSTALLOGRAPHIC AND FLUORESCENCE STUDIES OF THE INTERACTION OF HALOALKANE DEHALOGENASE WITH HALIDE IONS: STUDIES WITH HALIDE COMPOUNDS REVEAL A HALIDE BINDING SITE IN THE ACTIVE SITE	x-ray	2.19	A	p22643	310	1..310	49..295
+2edc	pdb	CRYSTALLOGRAPHIC AND FLUORESCENCE STUDIES OF THE INTERACTION OF HALOALKANE DEHALOGENASE WITH HALIDE IONS: STUDIES WITH HALIDE COMPOUNDS REVEAL A HALIDE BINDING SITE IN THE ACTIVE SITE	x-ray	2.3	A	p22643	310	1..310	49..295
+2es4	pdb	Crystal structure of the Burkholderia glumae lipase-specific foldase in complex with its cognate lipase	x-ray	1.85	A;B	p0dub8;p0dub8	358;358	40..358;40..358	49..327;49..327
+2g4l	pdb	Anomalous substructure of hydroxynitrile lyase	x-ray	1.84	A	p52704	257	1..257	5..241
+2had	pdb	CRYSTAL STRUCTURE OF HALOALKANE DEHALOGENASE: AN ENZYME TO DETOXIFY HALOGENATED ALKANES	x-ray	1.9	A	p22643	310	1..310	49..295
+2lip	pdb	PSEUDOMONAS LIPASE OPEN CONFORMATION	x-ray	2.1	A	p22088	364	45..364	54..266
+2nw6	pdb	Burkholderia cepacia lipase complexed with S-inhibitor	x-ray	1.8	A	p22088	364	45..364	54..266
+2o2h	pdb	Crystal structure of haloalkane dehalogenase Rv2579 from Mycobacterium tuberculosis complexed with 1,2-dichloroethane	x-ray	1.6	A	p9wmr9	300	1..300	32..155
+2o2i	pdb	Crystal structure of haloalkane dehalogenase Rv2579 from Mycobacterium tuberculosis complexed with 1,3-propandiol	x-ray	1.5	A	p9wmr9	300	1..300	32..155
+2ocg	pdb	Crystal structure of human valacyclovir hydrolase	x-ray	1.75	A	q86wa6	291	38..291	62..180
+2oci	pdb	Crystal structure of valacyclovir hydrolase complexed with a product analogue	x-ray	1.9	A	q86wa6	291	38..291	62..180
+2ock	pdb	Crystal structure of valacyclovir hydrolase D123N mutant	x-ray	1.85	A	q86wa6	291	38..291	62..180
+2ocl	pdb	Crystal structure of valacyclovir hydrolase S122A mutant	x-ray	1.9	A	q86wa6	291	38..291	62..180
+2og1	pdb	Crystal Structure of BphD, a C-C hydrolase from Burkholderia xenovorans LB400	x-ray	1.6	A;B	p47229;p47229	286;286	1..286;1..286	36..277;36..277
+2pky	pdb	The Effect of Deuteration on Protein Structure A High Resolution Comparison of Hydrogenous and Perdeuterated Haloalkane Dehalogenase	x-ray	1.55	X	p22643	310	1..310	49..295
+2pl5	pdb	Crystal Structure of Homoserine O-acetyltransferase from Leptospira interrogans	x-ray	2.2	A	q8f4i0	366	1..366	47..349
+2psd	pdb	Crystal Structures of the Luciferase and Green Fluorescent Protein from Renilla Reniformis	x-ray	1.4	A	p27652	311	3..311	45..291
+2pse	pdb	Crystal Structures of the Luciferase and Green Fluorescent Protein from Renilla Reniformis	x-ray	2.5	A	p27652	311	3..311	45..291
+2psf	pdb	Crystal Structures of the Luciferase and Green Fluorescent Protein from Renilla Reniformis	x-ray	1.4	A;B	p27652;p27652	311;311	3..311;3..311	45..291;45..291
+2psh	pdb	Crystal Structures of the Luciferase and Green Fluorescent Protein from Renilla Reniformis	x-ray	1.79	A;B	p27652;p27652	311;311	1..311;1..311	45..291;45..291
+2psj	pdb	Crystal Structures of the Luciferase and Green Fluorescent Protein from Renilla Reniformis	x-ray	1.8	A;B	p27652;p27652	311;311	1..311;1..311	45..291;45..291
+2pu5	pdb	Crystal Structure of a C-C bond hydrolase, BphD, from Burkholderia xenovorans LB400	x-ray	2.3	A;B	p47229;p47229	286;286	1..286;1..286	36..277;36..277
+2pu7	pdb	Crystal Structure of S112A/H265A double mutant of a C-C hydrolase, BphD, from Burkholderia xenovorans LB400	x-ray	2.07	A	p47229	286	1..286	36..277
+2puh	pdb	Crystal Structure of the S112A mutant of a C-C hydrolase, BphD from Burkholderia xenovorans LB400, in complex with its substrate HOPDA	x-ray	1.82	A	p47229	286	1..286	36..277
+2puj	pdb	Crystal Structure of the S112A/H265A double mutant of a C-C hydrolase, BphD from Burkholderia xenovorans LB400, in complex with its substrate HOPDA	x-ray	1.57	A	p47229	286	1..286	36..277
+2qvb	pdb	Crystal Structure of Haloalkane Dehalogenase Rv2579 from Mycobacterium tuberculosis	x-ray	1.19	A;B	p9wmr9;p9wmr9	300;300	3..299;3..299	32..155;32..155
+2r11	pdb	Crystal structure of putative hydrolase (2632844) from Bacillus subtilis at 1.96 A resolution	x-ray	1.96	A;B;C;D	p96688;p96688;p96688;p96688	300;300;300;300	1..294;1..294;1..294;1..294	58..286;58..286;58..286;58..286
+2rht	pdb	Crystal Structure of the S112A mutant of a C-C hydrolase, BphD from Burkholderia xenovorans LB400, in complex with 3-Cl HOPDA	x-ray	1.7	A	p47229	286	4..286	36..277
+2rhw	pdb	Crystal Structure of the S112A mutant of a C-C hydrolase, BphD from Burkholderia xenovorans LB400, in complex with 3,10-Di-Fluoro HOPDA	x-ray	1.57	A	p47229	286	4..286	36..277
+2ri6	pdb	Crystal Structure of S112A mutant of a C-C hydrolase, BphD from Burkholderia xenovorans LB400	x-ray	1.68	A	p47229	286	4..286	36..277
+2v9z	pdb	Structure of the Rhodococcus haloalkane dehalogenase mutant with enhanced enantioselectivity	x-ray	3	A	p0a3g2	293	1..141,142..293	34..158
+2vat	pdb	Crystal structure of deacetylcephalosporin C acetyltransferase in complex with coenzyme A	x-ray	2.2	A;B;C;D;E;F;G;H;I;J;K;L	p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058	444;444;444;444;444;444;444;444;444;444;444;444	1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444	111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425
+2vav	pdb	Crystal structure of deacetylcephalosporin C acetyltransferase (DAC-Soak)	x-ray	2.5	A;B;C;D;E;F;G;H;I;J;K;L	p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058	444;444;444;444;444;444;444;444;444;444;444;444	1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444	111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425
+2vax	pdb	Crystal structure of deacetylcephalosporin C acetyltransferase (Cephalosporin C-soak)	x-ray	2.6	A;B;C;D;E;F;G;H;I;J;K;L	p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058;p39058	444;444;444;444;444;444;444;444;444;444;444;444	1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444;1..444	111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425;111..425
+2vf2	pdb	X-ray crystal structure of HsaD from Mycobacterium tuberculosis	x-ray	2.35	A;B	p9wnh5;p9wnh5	291;291	1..291;1..291	38..275;38..275
+2wfl	pdb	Crystal structure of polyneuridine aldehyde esterase	x-ray	2.1	A;B	q9se93;q9se93	264;264	1..264;1..264	13..255;13..255
+2wfm	pdb	Crystal structure of polyneuridine aldehyde esterase mutant (H244A)	x-ray	2.2	A;B;C;D;E	q9se93;q9se93;q9se93;q9se93;q9se93	264;264;264;264;264	1..264;1..264;1..264;1..264;1..264	13..255;13..255;13..255;13..255;13..255
+2wj3	pdb	CRYSTAL STRUCTURE OF THE COFACTOR-DEVOID 1-H-3-HYDROXY-4- OXOQUINALDINE 2,4-DIOXYGENASE (HOD) FROM ARTHROBACTER NITROGUAJACOLICUS RU61A	x-ray	2.09	A;B;C;D	o31266;o31266;o31266;o31266	276;276;276;276	1..276;1..276;1..276;1..276	28..150;28..150;28..150;28..150
+2wj4	pdb	CRYSTAL STRUCTURE OF THE COFACTOR-DEVOID 1-H-3-HYDROXY-4- OXOQUINALDINE 2,4-DIOXYGENASE (HOD) FROM ARTHROBACTER NITROGUAJACOLICUS RU61A ANAEROBICALLY COMPLEXED WITH ITS NATURAL SUBSTRATE 1-H-3-HYDROXY-4-OXOQUINALDINE	x-ray	2.1	A;B;C;D	o31266;o31266;o31266;o31266	276;276;276;276	1..276;1..276;1..276;1..276	28..150;28..150;28..150;28..150
+2wj6	pdb	CRYSTAL STRUCTURE OF THE COFACTOR-DEVOID 1-H-3-HYDROXY-4- OXOQUINALDINE 2,4-DIOXYGENASE (HOD) FROM ARTHROBACTER NITROGUAJACOLICUS RU61A COMPLEXED WITH ITS NATURAL PRODUCT N- ACETYLANTHRANILATE	x-ray	2	A;B;C;D	o31266;o31266;o31266;o31266	276;276;276;276	1..276;1..276;1..276;1..276	28..150;28..150;28..150;28..150
+2wm2	pdb	CRYSTAL STRUCTURE OF THE COFACTOR-DEVOID 1-H-3-HYDROXY-4- OXOQUINALDINE 2,4-DIOXYGENASE (HOD) FROM ARTHROBACTER NITROGUAJACOLICUS RU61A IN COMPLEX WITH CHLORIDE	x-ray	2.7	A;B;C;D	o31266;o31266;o31266;o31266	276;276;276;276	1..276;1..276;1..276;1..276	28..150;28..150;28..150;28..150
+2wud	pdb	Crystal structure of S114A mutant of HsaD from Mycobacterium tuberculosis	x-ray	2.1	A;B	p9wnh5;p9wnh5	291;291	1..291;1..291	38..275;38..275
+2wue	pdb	Crystal structure of S114A mutant of HsaD from Mycobacterium tuberculosis in complex with HOPODA	x-ray	1.8	A;B	p9wnh5;p9wnh5	291;291	1..291;1..291	38..275;38..275
+2wuf	pdb	Crystal structure of S114A mutant of HsaD from Mycobacterium tuberculosis in complex with 4,9DSHA	x-ray	1.9	A;B	p9wnh5;p9wnh5	291;291	1..291;1..291	38..275;38..275
+2wug	pdb	Crystal structure of S114A mutant of HsaD from Mycobacterium tuberculosis in complex with HOPDA	x-ray	1.8	A;B	p9wnh5;p9wnh5	291;291	1..291;1..291	38..275;38..275
+2xmz	pdb	Structure of MenH from S. aureus	x-ray	1.94	A	a0a0h2ww38	267	1..267	17..253
+2xt0	pdb	Dehalogenase DPpA from Plesiocystis pacifica SIR-I	x-ray	1.9	A	a6g7b1	297	1..297	49..171,241..255
+2xua	pdb	Crystal structure of the enol-lactonase from Burkholderia xenovorans LB400	x-ray	1.9	A;H	q13kt2;q13kt2	263;263	1..263;1..263	49..64,93..106,107..120;49..64,93..106,107..120
+2y6u	pdb	Peroxisomal alpha-beta-hydrolase Lpx1 (Yor084w) from Saccharomyces cerevisiae (crystal form II)	x-ray	1.9	A	q12405	387	1..387	55..335
+2y6v	pdb	Peroxisomal alpha-beta-hydrolase Lpx1 (Yor084w) from Saccharomyces cerevisiae (crystal form I)	x-ray	2.83	A;B;C	q12405;q12405;q12405	387;387;387	1..387;1..387;1..387	55..335;55..335;55..335
+2yas	pdb	HYDROXYNITRILE LYASE FROM HEVEA BRASILIENSIS COMPLEXED WITH RHODANIDE	x-ray	1.72	A	p52704	257	1..257	5..241
+2yxp	pdb	The Effect of Deuteration on Protein Structure A High Resolution Comparison of Hydrogenous and Perdeuterated Haloalkane Dehalogenase	x-ray	1.53	X	p22643	310	1..310	49..295
+2yys	pdb	Crystal structure of the proline iminopeptidase-related protein TTHA1809 from Thermus thermophilus HB8	x-ray	2.2	A;B	q5shc1;q5shc1	286;286	1..286;1..286	29..268;29..268
+2zjf	pdb	Crystal structure of Mycobacterium tuberculosis epoxide hydrolase B complexed with an inhibitor	x-ray	2.4	A	p95276	356	2..356	28..129
+2zyh	pdb	mutant A. Fulgidus lipase S136A complexed with fatty acid fragment	x-ray	1.83	A;B	o28511;o28511	474;474	1..474;1..474	24..157;24..157
+2zyi	pdb	A. Fulgidus lipase with fatty acid fragment and calcium	x-ray	2.3	A;B	o28511;o28511	474;474	1..474;1..474	24..157;24..157
+2zyr	pdb	A. Fulgidus lipase with fatty acid fragment and magnesium	x-ray	1.77	A;B	o28511;o28511	474;474	1..474;1..474	24..157;24..157
+2zys	pdb	A. Fulgidus lipase with fatty acid fragment and chloride	x-ray	3.1	A	o28511	474	1..474	24..157
+3a2l	pdb	Crystal structure of DBJA (mutant dbja delta)	x-ray	1.78	A;B	p59337;p59337	310;310	1..310;1..310	30..142;30..142
+3a2m	pdb	CRYSTAL STRUCTURE OF DBJA (WILD TYPE Type I)	x-ray	1.84	A;B	p59337;p59337	310;310	1..310;1..310	30..142;30..142
+3a2n	pdb	Crystal structure of DBJA (Wild Type Type II P21)	x-ray	1.89	A;B;E;F	p59337;p59337;p59337;p59337	310;310;310;310	1..310;1..310;1..310;1..310	30..142;30..142;30..142;30..142
+3afi	pdb	Crystal structure of DBJA (HIS-DBJA)	x-ray	1.75	A;B;E;F	p59337;p59337;p59337;p59337	310;310;310;310	1..310;1..310;1..310;1..310	30..142;30..142;30..142;30..142
+3ans	pdb	Human soluble epoxide hydrolase in complex with a synthetic inhibitor	x-ray	1.98	A;B	p34913;p34913	555;555	230..555;230..555	259..531;259..531
+3ant	pdb	Human soluble epoxide hydrolase in complex with a synthetic inhibitor	x-ray	2.4	A;B	p34913;p34913	555;555	230..555;230..555	259..531;259..531
+3b12	pdb	Crystal Structure of the Fluoroacetate Dehalogenase D104 mutant from Burkholderia sp. FA1 in complex with fluoroacetate	x-ray	1.2	A;B	q1ju72;q1ju72	304;304	1..304;1..304	26..151;26..151
+3bdi	pdb	Crystal structure of predicted CIB-like hydrolase (NP_393672.1) from Thermoplasma acidophilum at 1.45 A resolution	x-ray	1.45	A	q9hln3	197	1..197	46..61,94..107,108..121,134..183
+3bf7	pdb	1.1 resolution structure of ybfF, a new esterase from Escherichia coli: a unique substrate-binding crevice generated by domain arrangement	x-ray	1.1	A;B	p75736;p75736	254;254	1..254;1..254	19..246;19..246
+3bf8	pdb	1.1 resolution structure of ybfF, a new esterase from Escherichia coli: a unique substrate-binding crevice generated by domain arrangement	x-ray	1.68	A;B	p75736;p75736	254;254	1..254;1..254	19..246;19..246
+3bwx	pdb	Crystal structure of an alpha/beta hydrolase (YP_496220.1) from Novosphingobium aromaticivorans DSM 12444 at 1.50 A resolution	x-ray	1.5	A	q2g9t7	284	1..284	31..276
+3c5v	pdb	PP2A-specific methylesterase apo form (PME)	x-ray	2	A	q9y570	386	39..386	79..362
+3c5w	pdb	Complex between PP2A-specific methylesterase PME-1 and PP2A core enzyme	x-ray	2.8	P	q9y570	386	39..386	79..362
+3c6x	pdb	HNL from Hevea brasiliensis to atomic resolution	x-ray	1.05	A	p52704	257	1..257	5..241
+3c6y	pdb	HNL from Hevea brasiliensis to atomic resolution	x-ray	1.25	A	p52704	257	1..257	5..241
+3c6z	pdb	HNL from Hevea brasiliensis to atomic resolution	x-ray	1.05	A	p52704	257	1..257	5..241
+3c70	pdb	HNL from Hevea brasiliensis to atomic resolution	x-ray	1.05	A	p52704	257	1..257	5..241
+3cxu	pdb	Structure of a Y149F mutant of epoxide hydrolase from Solanum tuberosum	x-ray	2	A;B	q41415;q41415	321;321	1..321;1..321	25..302;25..302
+3dqz	pdb	Structure of the hydroxynitrile lyase from Arabidopsis thaliana	x-ray	2.504	A;B;C;D	q9lft6;q9lft6;q9lft6;q9lft6	258;258;258;258	1..258;1..258;1..258;1..258	7..246;7..246;7..246;7..246
+3e0x	pdb	The crystal structure of a Lipase-esterase related protein from Clostridium acetobutylicum ATCC 824	x-ray	1.45	A;B	q97kv0;q97kv0	242;242	1..242;1..242	14..116;14..116
+3e3a	pdb	The Structure of Rv0554 from Mycobacterium tuberculosis	x-ray	2.35	A;B	p9wnh1;p9wnh1	262;262	2..262;2..262	15..250;15..250
+3fbw	pdb	Structure of Rhodococcus rhodochrous haloalkane dehalogenase DhaA mutant C176Y	x-ray	1.23	A	p0a3g2	293	1..293	34..158
+3fob	pdb	Crystal structure of bromoperoxidase from Bacillus anthracis	x-ray	1.74	A;B;C	a0a6l8nua5;a0a6l8nua5;a0a6l8nua5	278;278;278	1..278;1..278;1..278	25..258;25..258;25..258
+3fsg	pdb	Crystal structure of alpha/beta superfamily hydrolase from Oenococcus oeni PSU-1	x-ray	2	A;B;C;D	q04d10;q04d10;q04d10;q04d10	269;269;269;269	1..269;1..269;1..269;1..269	21..254;21..254;21..254;21..254
+3fwh	pdb	Structure of haloalkane dehalogenase mutant Dha15 (I135F/C176Y) from Rhodococcus rhodochrous	x-ray	1.22	A	p0a3g3	293	1..293	34..158
+3g9x	pdb	Structure of haloalkane dehalogenase DhaA14 mutant I135F from Rhodococcus rhodochrous	x-ray	0.95	A	p0a3g3	293	1..293	34..158
+3gzj	pdb	Crystal Structure of Polyneuridine Aldehyde Esterase Complexed with 16-epi-Vellosimine	x-ray	2.19	A;B;C;D;E	q9se93;q9se93;q9se93;q9se93;q9se93	264;264;264;264;264	7..264;7..264;7..264;7..264;7..264	13..255;13..255;13..255;13..255;13..255
+3hea	pdb	The L29P/L124I mutation of Pseudomonas fluorescens esterase	x-ray	1.9	A;B;C;D;E;F	p22862;p22862;p22862;p22862;p22862;p22862	272;272;272;272;272;272	2..272;2..272;2..272;2..272;2..272;2..272	21..253;21..253;21..253;21..253;21..253;21..253
+3hi4	pdb	Switching catalysis from hydrolysis to perhydrolysis in P. fluorescens esterase	x-ray	2.25	A;B;C;D;E;F	p22862;p22862;p22862;p22862;p22862;p22862	272;272;272;272;272;272	2..272;2..272;2..272;2..272;2..272;2..272	21..253;21..253;21..253;21..253;21..253;21..253
+3hju	pdb	Crystal structure of human monoglyceride lipase	x-ray	2.2	A;B	q99685;q99685	303;303	2..303;2..303	69..84,118..131,132..145,231..245;69..84,118..131,132..145,231..245
+3hss	pdb	A higher resolution structure of Rv0554 from Mycobacterium tuberculosis complexed with malonic acid	x-ray	1.9	A;B	p9wnh1;p9wnh1	262;262	2..262;2..262	15..250;15..250
+3hys	pdb	Structure of Rv0554 from Mycobacterium tuberculosis complexed with Malonic Acid	x-ray	2.3	A;B	p9wnh1;p9wnh1	262;262	2..262;2..262	15..250;15..250
+3hzo	pdb	Rv0554 from Mycobacterium tuberculosis - the structure solved from the tetragonal crystal form	x-ray	2.6	A;B	p9wnh1;p9wnh1	262;262	2..262;2..262	15..250;15..250
+3i1i	pdb	X-ray crystal structure of homoserine O-acetyltransferase from Bacillus anthracis	x-ray	2.44	A;B	a0a6l7hcr9;a0a6l7hcr9	374;374	1..374;1..374	40..332;40..332
+3i1y	pdb	Crystal Structure of soluble epoxide Hydrolase	x-ray	2.469	A	p34913	555	1..555	259..531
+3i28	pdb	Crystal Structure of soluble epoxide Hydrolase	x-ray	1.95	A	p34913	555	1..555	259..531
+3ia2	pdb	Pseudomonas fluorescens esterase complexed to the R-enantiomer of a sulfonate transition state analog	x-ray	1.65	A;B;C;D;E;F	p22862;p22862;p22862;p22862;p22862;p22862	272;272;272;272;272;272	2..272;2..272;2..272;2..272;2..272;2..272	21..253;21..253;21..253;21..253;21..253;21..253
+3ibt	pdb	Structure of 1H-3-hydroxy-4-oxoquinoline 2,4-dioxygenase (QDO)	x-ray	2.6	A	o33472	264	1..264	25..257
+3jw8	pdb	Crystal structure of human mono-glyceride lipase	x-ray	2.1	A;B	q99685;q99685	303;303	1..303;1..303	69..84,118..131,132..145,231..245;69..84,118..131,132..145,231..245
+3jwe	pdb	Crystal structure of human mono-glyceride lipase in complex with SAR629	x-ray	2.7	A;B	q99685;q99685	303;303	1..303;1..303	69..84,118..131,132..145,231..245;69..84,118..131,132..145,231..245
+3kd2	pdb	Crystal structure of the CFTR inhibitory factor Cif	x-ray	1.8	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+3kda	pdb	Crystal structure of the CFTR inhibitory factor Cif with the H269A mutation	x-ray	1.5	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+3koo	pdb	Crystal Structure of soluble epoxide Hydrolase	x-ray	2.791	A	p34913	555	1..555	259..531
+3kxp	pdb	Crystal Structure of E-2-(Acetamidomethylene)succinate Hydrolase	x-ray	2.26	A;B;C;D;E;F;G;H;I;J;K;L	q988d4;q988d4;q988d4;q988d4;q988d4;q988d4;q988d4;q988d4;q988d4;q988d4;q988d4;q988d4	278;278;278;278;278;278;278;278;278;278;278;278	1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278	36..265;36..265;36..265;36..265;36..265;36..265;36..265;36..265;36..265;36..265;36..265;36..265
+3lip	pdb	OPEN CONFORMATION OF PSEUDOMONAS CEPACIA LIPASE	x-ray	2	A	p22088	364	45..364	54..266
+3llc	pdb	Crystal structure of Putative hydrolase (YP_002548124.1) from Agrobacterium vitis S4 at 1.80 A resolution	x-ray	1.8	A	b9jym4	269	1..269	60..246
+3nwo	pdb	Crystal structure of Proline iminopeptidase Mycobacterium smegmatis	x-ray	1.9	A	a0qvs8	309	1..309	35..287
+3om8	pdb	The crystal structure of a hydrolase from Pseudomonas aeruginosa PA01	x-ray	2.25	A;B	q9i638;q9i638	265;265	2..264;2..264	35..143,209..223;35..143,209..223
+3oos	pdb	The structure of an alpha/beta fold family hydrolase from Bacillus anthracis str. Sterne	x-ray	1.65	A	a0a6l8nxe0	277	1..277	41..265
+3otq	pdb	Soluble Epoxide Hydrolase in complex with pyrazole antagonist	x-ray	3	A	p34913	555	1..555	259..531
+3p2m	pdb	Crystal Structure of a Novel Esterase Rv0045c from Mycobacterium tuberculosis	x-ray	2.8	A	p71702	298	2..298	52..289
+3pdc	pdb	Crystal structure of hydrolase domain of human soluble epoxide hydrolase complexed with a benzoxazole inhibitor	x-ray	2.6	A;B	p34913;p34913	555;555	226..548;226..548	259..531;259..531
+3pe6	pdb	Crystal Structure of a soluble form of human MGLL in complex with an inhibitor	x-ray	1.35	A	q99685	303	1..303	69..84,118..131,132..145,231..245
+3pi6	pdb	Crystal structure of the CFTR inhibitory factor Cif with the H177Y mutation	x-ray	1.5	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+3qit	pdb	Thioesterase Domain From Curacin Biosynthetic Pathway	x-ray	1.68	A;B;C;D	d0e8e2;d0e8e2;d0e8e2;d0e8e2	2211;2211;2211;2211	1929..2211;1929..2211;1929..2211;1929..2211	1952..2200;1952..2200;1952..2200;1952..2200
+3qvm	pdb	The structure of olei00960, a hydrolase from Oleispira antarctica	x-ray	1.998	A;B	u3kre9;u3kre9	282;282	1..282;1..282	30..263;30..263
+3qyj	pdb	Crystal structure of ALR0039, a putative alpha/beta hydrolase from Nostoc sp PCC 7120.	x-ray	1.778	A;B	q8z0q1;q8z0q1	291;291	1..291;1..291	27..252;27..252
+3r0v	pdb	The crystal structure of an alpha/beta hydrolase from Sphaerobacter thermophilus DSM 20745.	x-ray	1.383	A	d1c982	259	1..259	24..245
+3r3u	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - WT/apo	x-ray	1.6	A;B;C;D	q6nam1;q6nam1;q6nam1;q6nam1	302;302;302;302	1..302;1..302;1..302;1..302	32..270;32..270;32..270;32..270
+3r3v	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Asp110Asn/Fluoroacetate	x-ray	1.5	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+3r3w	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Asp110Asn/Chloroacetate	x-ray	1.6	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+3r3x	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Asp110Asn/Bromoacetate	x-ray	1.8	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+3r3y	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - His280Asn/Fluoroacetate	x-ray	1.15	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+3r3z	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - WT/Glycolate	x-ray	1.7	A;B;C;D	q6nam1;q6nam1;q6nam1;q6nam1	302;302;302;302	1..302;1..302;1..302;1..302	32..270;32..270;32..270;32..270
+3r40	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Asp110Asn/apo	x-ray	1.05	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+3r41	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - His280Asn/apo	x-ray	1.05	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+3rk4	pdb	Structure of Rhodococcus rhodochrous haloalkane dehalogenase mutant DhaA31	x-ray	1.31	A	p0a3g2	293	1..293	34..158
+3rks	pdb	Crystal Structure of the Manihot esculenta Hydroxynitrile Lyase (MeHNL) K176P mutant	x-ray	2.5	A;B;C;D	p52705;p52705;p52705;p52705	258;258;258;258	1..258;1..258;1..258;1..258	5..242;5..242;5..242;5..242
+3sk0	pdb	structure of Rhodococcus rhodochrous haloalkane dehalogenase DhaA mutant DhaA12	x-ray	1.78	A	p0a3g2	293	1..141,142..293	34..158
+3stt	pdb	Crystal Structure of tomato Methylketone Synthase I Apo form	x-ray	2.24	A;B	e0ycs2;e0ycs2	265;265	1..265;1..265	13..253;13..253
+3stu	pdb	Crystal Structure of tomato Methylketone Synthase I complexed with methyl-3-hydroxydodecanoate	x-ray	1.93	A;B	e0ycs2;e0ycs2	265;265	1..265;1..265	13..253;13..253
+3stv	pdb	Crystal Structure of tomato Methylketone Synthase I complexed with 3-hydroxyoctanoate	x-ray	2.2	A;B	e0ycs2;e0ycs2	265;265	1..265;1..265	13..253;13..253
+3stw	pdb	Crystal Structure of tomato Methylketone Synthase I complexed with 2-tridecanone	x-ray	2.31	A;B	e0ycs2;e0ycs2	265;265	1..265;1..265	13..253;13..253
+3stx	pdb	Crystal Structure of tomato Methylketone Synthase I H243A variant complexed with beta-ketoheptanoate	x-ray	2.3	A;B	e0ycs2;e0ycs2	265;265	1..265;1..265	13..253;13..253
+3sty	pdb	Crystal Structure of tomato Methylketone Synthase I T18A mutant	x-ray	1.7	A;B	e0ycs2;e0ycs2	265;265	1..265;1..265	13..253;13..253
+3t4u	pdb	L29I Mutation in an Aryl Esterase from Pseudomonas fluorescens Leads to Unique Peptide Flip and Increased Activity	x-ray	2.02	A;B;C;D;E;F	p22862;p22862;p22862;p22862;p22862;p22862	272;272;272;272;272;272	2..272;2..272;2..272;2..272;2..272;2..272	21..253;21..253;21..253;21..253;21..253;21..253
+3t52	pdb	L29I Mutation in an Aryl Esterase from Pseudomonas fluorescens Leads to Unique Peptide Flip and Increased Activity	x-ray	2	A;B;C;D;E;F	p22862;p22862;p22862;p22862;p22862;p22862	272;272;272;272;272;272	2..272;2..272;2..272;2..272;2..272;2..272	21..253;21..253;21..253;21..253;21..253;21..253
+3u1t	pdb	Haloalkane Dehalogenase, DmmA, of marine microbial origin	x-ray	2.2	A;B	q6dnd9;q6dnd9	341;341	44..341;44..341	71..320;71..320
+3v1k	pdb	Crystal Structure of the H265Q mutant of a C-C hydrolase, BphD from Burkholderia xenovorans LB400.	x-ray	2.13	A;B	p47229;p47229	286;286	1..286;1..286	36..277;36..277
+3v1l	pdb	Crystal Structure of the S112A/H265Q mutant of a C-C hydrolase, BphD from Burkholderia xenovorans LB400	x-ray	2.11	A	p47229	286	1..286	36..277
+3v1m	pdb	Crystal Structure of the S112A/H265Q mutant of a C-C hydrolase, BphD from Burkholderia xenovorans LB400, after exposure to its substrate HOPDA	x-ray	1.92	A	p47229	286	1..286	36..277
+3v1n	pdb	Crystal Structure of the H265Q mutant of a C-C hydrolase, BphD from Burkholderia xenovorans LB400, after exposure to its substrate HOPDA	x-ray	1.59	A	p47229	286	1..286	36..277
+3v48	pdb	Crystal Structure of the putative alpha/beta hydrolase RutD from E.coli	x-ray	2.1	A;B	b6i985;b6i985	266;266	1..266;1..266	16..249;16..249
+3vdx	pdb	Structure of a 16 nm protein cage designed by fusing symmetric oligomeric domains	x-ray	3.002	A;B;C	p29715;p29715;p29715	278;278;278	1..278;1..278;1..278	26..264;26..264;26..264
+3vvl	pdb	Crystal structure of L-serine-O-acetyltransferase found in D-cycloserine biosynthetic pathway	x-ray	1.81	A;B	d2z028;d2z028	374;374	1..374;1..374	46..357;46..357
+3vvm	pdb	Crystal structure of G52A-P55G mutant of L-serine-O-acetyltransferase found in D-cycloserine biosynthetic pathway	x-ray	1.7	A;B	d2z028;d2z028	374;374	1..374;1..374	46..357;46..357
+3vxk	pdb	Crystal structure of OsD14	x-ray	1.75	A;B	q10qa5;q10qa5	318;318	54..318;54..318	72..309;72..309
+3w04	pdb	Crystal structure of Oryza sativa DWARF14 (D14)	x-ray	1.45	A;B	q10qa5;q10qa5	318;318	55..318;55..318	72..309;72..309
+3w05	pdb	Crystal structure of Oryza sativa DWARF14 (D14) in complex with PMSF	x-ray	1.58	A;B	q10qa5;q10qa5	318;318	55..318;55..318	72..309;72..309
+3w06	pdb	Crystal structure of Arabidopsis thaliana DWARF14 Like (AtD14L)	x-ray	1.15	A	q9szu7	270	1..270	20..257
+3w9u	pdb	Crystal structure of Lipk107	x-ray	2	A	b4evm3	287	1..287	6..119
+3wi7	pdb	Crystal Structure of the Novel Haloalkane Dehalogenase DatA from Agrobacterium tumefaciens C58	x-ray	1.7	A;B	q8u671;q8u671	304;304	1..304;1..304	42..154;42..154
+3wib	pdb	Crystal structure of Y109W Mutant Haloalkane Dehalogenase DatA from Agrobacterium tumefaciens C58	x-ray	1.95	A;B	q8u671;q8u671	304;304	1..304;1..304	42..154;42..154
+3wio	pdb	Crystal structure of OSD14 in complex with hydroxy D-ring	x-ray	2.1	A;B	q10qa5;q10qa5	318;318	54..318;54..318	72..309;72..309
+3wk4	pdb	Crystal structure of soluble epoxide hydrolase in complex with fragment inhibitor	x-ray	2.11	A	p34913	555	1..555	259..531
+3wk5	pdb	Crystal structure of soluble epoxide hydrolase in complex with fragment inhibitor	x-ray	2.77	A	p34913	555	1..555	259..531
+3wk6	pdb	Crystal structure of soluble epoxide hydrolase in complex with fragment inhibitor	x-ray	2.1	A	p34913	555	1..555	259..531
+3wk7	pdb	Crystal structure of soluble epoxide hydrolase in complex with fragment inhibitor	x-ray	2.2	A	p34913	555	1..555	259..531
+3wk8	pdb	Crystal structure of soluble epoxide hydrolase in complex with fragment inhibitor	x-ray	2.2	A	p34913	555	1..555	259..531
+3wk9	pdb	Crystal structure of soluble epoxide hydrolase in complex with fragment inhibitor	x-ray	2.2	A	p34913	555	1..555	259..531
+3wka	pdb	Crystal structure of soluble epoxide hydrolase in complex with fragment inhibitor	x-ray	2.01	A	p34913	555	1..555	259..531
+3wkb	pdb	Crystal structure of soluble epoxide hydrolase in complex with fragment inhibitor	x-ray	2.2	A	p34913	555	1..555	259..531
+3wkc	pdb	Crystal structure of soluble epoxide hydrolase in complex with fragment inhibitor	x-ray	2.2	A	p34913	555	1..555	259..531
+3wkd	pdb	Crystal structure of soluble epoxide hydrolase in complex with fragment inhibitor	x-ray	2.48	A	p34913	555	1..555	259..531
+3wke	pdb	Crystal structure of soluble epoxide hydrolase in complex with t-AUCB	x-ray	2.75	A	p34913	555	1..555	259..531
+3wmr	pdb	Crystal structure of VinJ	x-ray	1.95	A;B;C	q76ky6;q76ky6;q76ky6	299;299;299	1..299;1..299;1..299	31..284;31..284;31..284
+3wwo	pdb	S-selective hydroxynitrile lyase from Baliospermum montanum (apo1)	x-ray	2.55	A;B	d1mx73;d1mx73	263;263	1..263;1..263	5..240;5..240
+3wwp	pdb	S-selective hydroxynitrile lyase from Baliospermum montanum (apo2)	x-ray	1.9	A;B;G;L;M;R	d1mx73;d1mx73;d1mx73;d1mx73;d1mx73;d1mx73	263;263;263;263;263;263	1..263;1..263;1..263;1..263;1..263;1..263	5..240;5..240;5..240;5..240;5..240;5..240
+3wzl	pdb	ZEN lactonase	x-ray	2.6	A;B;C	q8nkb0;q8nkb0;q8nkb0	264;264;264	1..264;1..264;1..264	27..127;27..127;27..127
+3wzm	pdb	ZEN lactonase mutant complex	x-ray	2.48	A;B;C	q8nkb0;q8nkb0;q8nkb0	264;264;264	1..264;1..264;1..264	27..127;27..127;27..127
+3x3h	pdb	Crystal Structure of the Manihot esculenta Hydroxynitrile Lyase (MeHNL) 3KP (K176P, K199P, K224P) triple mutant	x-ray	2.88	A;B;C;D;E;F;G;H	p52705;p52705;p52705;p52705;p52705;p52705;p52705;p52705	258;258;258;258;258;258;258;258	1..258;1..258;1..258;1..258;1..258;1..258;1..258;1..258	5..242;5..242;5..242;5..242;5..242;5..242;5..242;5..242
+3yas	pdb	HYDROXYNITRILE LYASE COMPLEXED WITH ACETONE	x-ray	1.85	A	p52704	257	1..257	5..241
+4b9a	pdb	Structure of a putative epoxide hydrolase from Pseudomonas aeruginosa.	x-ray	1.45	A	q9i229	300	1..300	31..141
+4b9e	pdb	Structure of a putative epoxide hydrolase from Pseudomonas aeruginosa, with bound MFA.	x-ray	1.4	A	q9i229	300	1..300	31..141
+4bat	pdb	Structure of a putative epoxide hydrolase t131d mutant from Pseudomonas aeruginosa.	x-ray	1.3	A	q9i229	300	1..300	31..141
+4bau	pdb	Structure of a putative epoxide hydrolase t131d mutant from Pseudomonas aeruginosa, with bound MFA	x-ray	1.55	A	q9i229	300	1..300	31..141
+4baz	pdb	Structure of a putative epoxide hydrolase Q244E mutant from Pseudomonas aeruginosa.	x-ray	1.35	A	q9i229	300	1..300	31..141
+4bb0	pdb	Structure of a putative epoxide hydrolase Q244E mutant from Pseudomonas aeruginosa, with bound MFA.	x-ray	1.77	A	q9i229	300	1..300	31..141
+4brz	pdb	Haloalkane dehalogenase	x-ray	1.67	A;B	a0a067xg63;a0a067xg63	290;290	1..290;1..290	27..275;27..275
+4c4x	pdb	Crystal structure of human bifunctional epoxide hydroxylase 2 complexed with C9	x-ray	2.17	A;B	p34913;p34913	555;555	230..555;230..555	259..531;259..531
+4c4y	pdb	Crystal structure of human bifunctional epoxide hydroxylase 2 complexed with A4	x-ray	2.41	A	p34913	555	230..555	259..531
+4c4z	pdb	Crystal structure of human bifunctional epoxide hydroxylase 2 complexed with A8	x-ray	2.06	A;B	p34913;p34913	555;555	230..555;230..555	259..531;259..531
+4c6h	pdb	Haloalkane dehalogenase with 1-hexanol	x-ray	1.61	A	a0a067xg66	291	1..291	28..276
+4ccw	pdb	Crystal structure of naproxen esterase (carboxylesterase NP) from Bacillus subtilis	x-ray	1.75	A	q59248	300	2..300	58..286
+4ccy	pdb	Crystal structure of carboxylesterase CesB (YbfK) from Bacillus subtilis	x-ray	2.04	A;B	o31452;o31452	296;296	1..296;1..296	57..285;57..285
+4cfs	pdb	CRYSTAL STRUCTURE OF THE COFACTOR-DEVOID 1-H-3-HYDROXY-4- OXOQUINALDINE 2,4-DIOXYGENASE (HOD) CATALYTICALLY INACTIVE H251A VARIANT COMPLEXED WITH ITS NATURAL SUBSTRATE 1-H-3-HYDROXY-4- OXOQUINALDINE	x-ray	1.94	A;B;C;D	o31266;o31266;o31266;o31266	276;276;276;276	3..275;3..275;3..275;3..275	28..150;28..150;28..150;28..150
+4d9j	pdb	Structure of a 16 nm protein cage designed by fusing symmetric oligomeric domains	x-ray	3.92	A;B;C;D;E;F;G;H;I;J;K;L	p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715	278;278;278;278;278;278;278;278;278;278;278;278	1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278	26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264
+4dgq	pdb	Crystal structure of Non-heme chloroperoxidase from Burkholderia cenocepacia	x-ray	1.85	A;B;C	b4ea96;b4ea96;b4ea96	276;276;276	1..276;1..276;1..276	24..256;24..256;24..256
+4dln	pdb	Crystal structure of the CFTR inhibitory factor Cif with the D129S mutation	x-ray	1.55	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+4dm7	pdb	Crystal structure of the CFTR inhibitory factor Cif with the E153D mutation	x-ray	1.36	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+4dmc	pdb	Crystal structure of the CFTR inhibitory factor Cif with the E153Q mutation	x-ray	1.66	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+4dmf	pdb	Crystal structure of the CFTR inhibitory factor Cif with the H177A mutation	x-ray	2.12	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+4dmh	pdb	Crystal structure of the CFTR inhibitory factor Cif with the H207A mutation	x-ray	1.9	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+4dmk	pdb	Crystal structure of the CFTR inhibitory factor Cif with the Y239F mutation	x-ray	1.5	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+4dnf	pdb	Crystal structure of the CFTR inhibitory factor Cif with the E153Q mutation adducted with the epibromohydrin hydrolysis intermediate	x-ray	1.8	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+4dno	pdb	Crystal structure of the CFTR inhibitory factor Cif with the E153Q mutation adducted with the 1,2-epoxyhexane hydrolysis intermediate	x-ray	1.95	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+4dnp	pdb	Crystal Structure of DAD2	x-ray	2.15	A	j9u5u9	267	1..267	21..258
+4dnq	pdb	Crystal Structure of DAD2 S96A mutant	x-ray	2.8	A;B;C;D;E;F;G;H;I;J;K;L	j9u5u9;j9u5u9;j9u5u9;j9u5u9;j9u5u9;j9u5u9;j9u5u9;j9u5u9;j9u5u9;j9u5u9;j9u5u9;j9u5u9	267;267;267;267;267;267;267;267;267;267;267;267	1..267;1..267;1..267;1..267;1..267;1..267;1..267;1..267;1..267;1..267;1..267;1..267	21..258;21..258;21..258;21..258;21..258;21..258;21..258;21..258;21..258;21..258;21..258;21..258
+4e46	pdb	Structure of Rhodococcus rhodochrous haloalkane dehalogenase DhaA in complex with 2-propanol	x-ray	1.26	A	p0a3g2	293	1..293	34..158
+4ehb	pdb	Crystal structure of the CFTR inhibitory factor Cif with the D129S mutation bound to epoxyhexane	x-ray	1.85	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+4etw	pdb	Structure of the Enzyme-ACP Substrate Gatekeeper Complex Required for Biotin Synthesis	x-ray	2.05	A;C	q83pw0;q83pw0	262;262	1..257;1..257	15..242;15..242
+4eus	pdb	Crystal structure of the CFTR inhibitory factor Cif bound to 1,2-hexanediol	x-ray	1.65	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+4f0j	pdb	Crystal structure of a probable hydrolytic enzyme (PA3053) from Pseudomonas aeruginosa PAO1 at 1.50 A resolution	x-ray	1.5	A	q9hzf5	335	21..335	68..319
+4f5z	pdb	Crystal structure of Rhodococcus rhodochrous haloalkane dehalogenase mutant (L95V, A172V).	x-ray	1.2	A	p0a3g2	293	1..293	34..158
+4f60	pdb	Crystal structure of Rhodococcus rhodochrous haloalkane dehalogenase mutant (T148L, G171Q, A172V, C176F).	x-ray	1.45	A	p0a3g2	293	1..293	34..158
+4fwb	pdb	Structure of Rhodococcus rhodochrous haloalkane dehalogenase mutant DhaA31 in complex with 1, 2, 3 - trichloropropane	x-ray	1.26	A	p0a3g2	293	4..293	34..158
+4g5x	pdb	Crystal structures of N-acyl homoserine lactonase AidH	x-ray	1.29	A;B	d2j2t6;d2j2t6	271;271	1..271;1..271	27..258;27..258
+4g8b	pdb	Crystal structures of N-acyl homoserine lactonase AidH S102G mutant complexed with N-hexanoyl homoserine lactone	x-ray	1.302	A;B	d2j2t6;d2j2t6	271;271	1..271;1..271	27..258;27..258
+4g8c	pdb	Crystal structures of N-acyl homoserine lactonase AidH E219G mutant complexed with N-hexanoyl homoserine	x-ray	1.11	A;B	d2j2t6;d2j2t6	271;271	1..271;1..271	27..258;27..258
+4g8d	pdb	Crystal structures of N-acyl homoserine lactonase AidH S102G mutant	x-ray	1.35	A;B	d2j2t6;d2j2t6	271;271	1..271;1..271	27..258;27..258
+4g9e	pdb	Crystal structures of N-acyl homoserine lactonase AidH complexed with N-butanoyl homoserine	x-ray	1.088	A;B	d2j2t6;d2j2t6	271;271	1..271;1..271	27..258;27..258
+4g9g	pdb	Crystal structures of N-acyl homoserine lactonase AidH E219G mutant	x-ray	1.35	A;B	d2j2t6;d2j2t6	271;271	1..271;1..271	27..258;27..258
+4gdm	pdb	Crystal Structure of E.coli MenH	x-ray	2.75	A;B;C	p37355;p37355;p37355	252;252;252	1..252;1..252;1..252	17..243;17..243;17..243
+4gec	pdb	Crystal Structure of E.coli MenH R124A Mutant	x-ray	2.5	A;B;C	p37355;p37355;p37355	252;252;252	1..252;1..252;1..252	17..243;17..243;17..243
+4geg	pdb	Crystal Structure of E.coli MenH Y85F Mutant	x-ray	2.49	A;B;C	p37355;p37355;p37355	252;252;252	1..252;1..252;1..252	17..243;17..243;17..243
+4gw3	pdb	Crystal Structure of the Lipase from Proteus mirabilis	x-ray	2	A	b4evm3	287	1..287	6..119
+4gxn	pdb	Diethylphosphonate Inhibited Structure of the Proteus mirabilis Lipase	x-ray	2.2	A	b4evm3	287	1..287	6..119
+4h77	pdb	Crystal structure of haloalkane dehalogenase LinB from Sphingobium sp. MI1205	x-ray	1.6	A	a4peu6	296	1..296	31..155
+4h7d	pdb	Crystal structure of haloalkane dehalogenase LinB T81A mutant from Sphingobium sp. MI1205	x-ray	1.95	A	a4peu6	296	1..296	31..155
+4h7e	pdb	Crystal structure of haloalkane dehalogenase LinB V112A mutant from Sphingobium sp. MI1205	x-ray	1.8	A	a4peu6	296	1..296	31..155
+4h7f	pdb	Crystal structure of haloalkane dehalogenase LinB V134I mutant from Sphingobium sp. MI1205	x-ray	1.8	A	a4peu6	296	1..296	31..155
+4h7h	pdb	Crystal structure of haloalkane dehalogenase LinB T135A mutant from Sphingobium sp. MI1205	x-ray	2.1	A	a4peu6	296	1..296	31..155
+4h7i	pdb	Crystal structure of haloalkane dehalogenase LinB L138I mutant from Sphingobium sp. MI1205	x-ray	1.8	A	a4peu6	296	1..296	31..155
+4h7j	pdb	Crystal structure of haloalkane dehalogenase LinB H247A mutant from Sphingobium sp. MI1205	x-ray	1.8	A	a4peu6	296	1..296	31..155
+4h7k	pdb	Crystal structure of haloalkane dehalogenase LinB I253M mutant from Sphingobium sp. MI1205	x-ray	1.75	A	a4peu6	296	1..296	31..155
+4hai	pdb	Crystal structure of human soluble epoxide hydrolase complexed with N-cycloheptyl-1-(mesitylsulfonyl)piperidine-4-carboxamide.	x-ray	2.55	A	p34913	555	1..555	259..531
+4hrx	pdb	Crystal structure of KAI2	x-ray	2.11	A	q9szu7	270	1..270	20..257
+4hry	pdb	The structure of Arabidopsis thaliana KAI2	x-ray	1.5	A	q9szu7	270	1..270	20..257
+4hs9	pdb	Methanol tolerant mutant of the Proteus mirabilis lipase	x-ray	1.8	A	b4evm3	287	1..287	6..119
+4hta	pdb	The structure of the karrikin insensitive (KAI2) protein in Arabidopsis thaliana	x-ray	1.901	A	q9szu7	270	1..270	20..257
+4hzg	pdb	Structure of haloalkane dehalogenase DhaA from Rhodococcus rhodochrous	x-ray	1.95	A	p0a3g3	293	1..293	34..158
+4i3f	pdb	Crystal structure of serine hydrolase CCSP0084 from the polyaromatic hydrocarbon (PAH)-degrading bacterium Cycloclasticus zankles	x-ray	1.69	A	k0c6t6	282	1..282	26..267
+4ih1	pdb	Crystal structure of Karrikin Insensitive 2 (KAI2) from Arabidopsis thaliana	x-ray	1.55	A	q9szu7	270	1..270	20..257
+4ih4	pdb	Crystal structure of Arabidopsis DWARF14 orthologue, AtD14	x-ray	3.5	A;B;C;D	q9sqr3;q9sqr3;q9sqr3;q9sqr3	267;267;267;267	1..267;1..267;1..267;1..267	22..259;22..259;22..259;22..259
+4ih9	pdb	Crystal structure of rice DWARF14 (D14)	x-ray	1.55	A;B	q10qa5;q10qa5	318;318	51..318;51..318	72..309;72..309
+4iha	pdb	Crystal structure of rice DWARF14 (D14) in complex with a GR24 hydrolysis intermediate	x-ray	1.55	A;B	q10qa5;q10qa5	318;318	51..318;51..318	72..309;72..309
+4inz	pdb	The crystal structure of M145A mutant of an epoxide hydrolase from Bacillus megaterium	x-ray	1.7	A;B	g9bex6;g9bex6	287;287	1..287;1..287	23..274;23..274
+4io0	pdb	Crystal structure of F128A mutant of an epoxide hydrolase from Bacillus megaterium complexed with its product (R)-3-[1]naphthyloxy-propane-1,2-diol	x-ray	2.9	A;B	g9bex6;g9bex6	287;287	1..287;1..287	23..274;23..274
+4iq4	pdb	Structure of a 16 nm protein cage designed by fusing symmetric oligomeric domains, triple mutant, P21212 form	x-ray	3.495	A;B;C;D;E;F	p29715;p29715;p29715;p29715;p29715;p29715	278;278;278;278;278;278	1..278;1..278;1..278;1..278;1..278;1..278	26..264;26..264;26..264;26..264;26..264;26..264
+4itv	pdb	Structure of a 16 nm protein cage designed by fusing symmetric oligomeric domains, triple mutant, P212121 form	x-ray	3.598	A;B;C;D;E;F;G;H;I;J;K;L	p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715	278;278;278;278;278;278;278;278;278;278;278;278	1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278	26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264
+4ivj	pdb	Structure of a 16 nm protein cage designed by fusing symmetric oligomeric domains, triple mutant, I222 form	x-ray	7.351	A;B;C	p29715;p29715;p29715	278;278;278	1..278;1..278;1..278	26..264;26..264;26..264
+4j03	pdb	Crystal structure of human soluble epoxide hydrolase complexed with fulvestrant	x-ray	2.92	A	p34913	555	1..555	259..531
+4jnc	pdb	Soluble Epoxide Hydrolase complexed with a carboxamide inhibitor	x-ray	1.96	A	p34913	555	238..549	259..531
+4jym	pdb	crystal Structure of KAI2 in complex with 3-methyl-2H-furo[2,3-c]pyran-2-one	x-ray	1.35	A;B	q9szu7;q9szu7	270;270	1..270;1..270	20..257;20..257
+4jyp	pdb	crystal Structure of KAI2 Apo form	x-ray	1.3	A;B	q9szu7;q9szu7	270;270	1..270;1..270	20..257;20..257
+4k2a	pdb	Crystal structure of haloalkane dehalogenase DbeA from Bradyrhizobium elkani USDA94	x-ray	2.2	A;B;C;D	e2rv62;e2rv62;e2rv62;e2rv62	310;310;310;310	5..302;5..302;5..302;5..302	30..141;30..141;30..141;30..141
+4kaa	pdb	Crystal structure of the halotag2 protein at the resolution 2.3A, Northeast Structural Genomics Consortium (NESG) target OR150	x-ray	2.276	A;B	p0a3g3;p0a3g3	293;293	2..293;2..293	34..158;34..158
+4kac	pdb	X-Ray Structure of the complex HaloTag2 with HALTS. Northeast Structural Genomics Consortium (NESG) Target OR150.	x-ray	2.223	A;B	p0a3g3;p0a3g3	293;293	2..293;2..293	34..158;34..158
+4kaf	pdb	Crystal Structure of Haloalkane dehalogenase HaloTag7 at the resolution 1.5A, Northeast Structural Genomics Consortium (NESG) Target OR151	x-ray	1.496	A;B	p0a3g3;p0a3g3	293;293	3..293;3..293	34..158;34..158
+4kaj	pdb	X-Ray Structure of the complex of Haloalkane dehalogenase HaloTag7 with HALTS, Northeast Structural Genomics Consortium (NESG) Target OR151	x-ray	1.948	A	p0a3g3	293	3..293	34..158
+4l0c	pdb	Crystal structure of the N-Fopmylmaleamic acid deformylase Nfo(S94A) from Pseudomonas putida S16	x-ray	1.65	A;B;C;D;E;F;G;H	f8g0m2;f8g0m2;f8g0m2;f8g0m2;f8g0m2;f8g0m2;f8g0m2;f8g0m2	255;255;255;255;255;255;255;255	1..255;1..255;1..255;1..255;1..255;1..255;1..255;1..255	25..246;25..246;25..246;25..246;25..246;25..246;25..246;25..246
+4lip	pdb	PSEUDOMONAS LIPASE COMPLEXED WITH RC-(RP, SP)-DIBUTYLCARBAMOYLGLYCERO-3-O-BUTYLPHOSPHONATE	x-ray	1.75	D;E	p22088;p22088	364;364	45..364;45..364	54..266;54..266
+4lxg	pdb	Crystal structure of DxnB2, a carbon - carbon bond hydrolase from Sphingomonas wittichii RW1	x-ray	2.22	A	a5vat9	277	1..277	28..265
+4lxh	pdb	Crystal Structure of the S105A mutant of a carbon-carbon bond hydrolase, DxnB2 from Sphingomonas wittichii RW1, in complex with 3-Cl HOPDA	x-ray	2.02	A	a5vat9	277	1..277	28..265
+4lxi	pdb	Crystal Structure of the S105A mutant of a carbon-carbon bond hydrolase, DxnB2 from Sphingomonas wittichii RW1, in complex with 5,8-diF HOPDA	x-ray	2.17	A	a5vat9	277	1..277	28..265
+4lyd	pdb	Crystal structure of the S105A mutant of a C-C hydrolase, DxnB2 from Sphingomonas wittichii RW1	x-ray	2.26	A	a5vat9	277	1..277	28..265
+4lye	pdb	Crystal structure of the S105A mutant of a C-C hydrolase, DxnB2 from Sphingomonas wittichii RW1, in complex with substrate HOPDA	x-ray	2.33	A	a5vat9	277	1..277	28..265
+4mj3	pdb	Haloalkane dehalogenase DmrA from Mycobacterium rhodesiae JS60	x-ray	1.7	A;B;C;D	g4i2j6;g4i2j6;g4i2j6;g4i2j6	305;305;305;305	1..305;1..305;1..305;1..305	48..286;48..286;48..286;48..286
+4mxd	pdb	1.45 angstronm crystal structure of E.coli 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (MenH)	x-ray	1.45	A	p37355	252	1..252	17..243
+4myd	pdb	1.37 Angstrom Crystal Structure of E. Coli 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase (MenH) in complex with SHCHC	x-ray	1.374	A;B;C	p37355;p37355;p37355	252;252;252	1..252;1..252;1..252	17..243;17..243;17..243
+4mys	pdb	1.4 Angstrom Crystal Structure of 2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase with SHCHC and Pyruvate	x-ray	1.423	A;B;C	p37355;p37355;p37355	252;252;252	1..252;1..252;1..252	17..243;17..243;17..243
+4nmw	pdb	Crystal Structure of Carboxylesterase BioH from Salmonella enterica	x-ray	1.496	A	q8zli9	256	1..256	15..242
+4ns4	pdb	Crystal structure of cold-active estarase from Psychrobacter cryohalolentis K5T	x-ray	2.15	A	q1qeu6	315	1..315	69..297
+4nvr	pdb	2.22 Angstrom Resolution Crystal Structure of a Putative Acyltransferase from Salmonella enterica	x-ray	2.22	A;B;C;D	q8zri7;q8zri7;q8zri7;q8zri7	304;304;304;304	1..304;1..304;1..304;1..304	39..163;39..163;39..163;39..163
+4nzz	pdb	Crystal structure of epoxide hydrolase from bacillus megaterium	x-ray	1.75	A;B	g9bex6;g9bex6	287;287	1..287;1..287	23..274;23..274
+4o08	pdb	Crystal structure of bacillus megaterium epoxide hydrolase in complex with an inhibitor	x-ray	1.95	A;B	g9bex6;g9bex6	287;287	1..287;1..287	23..274;23..274
+4ocz	pdb	Crystal structure of human soluble epoxide hydrolase complexed with 1-(1-isobutyrylpiperidin-4-yl)-3-(4-(trifluoromethyl)phenyl)urea	x-ray	2.94	A	p34913	555	1..555	259..531
+4od0	pdb	Crystal structure of human soluble epoxide hydrolase complexed with 1-(1-propanoylpiperidin-4-yl)-3-[4-(trifluoromethoxy)phenyl]urea	x-ray	2.92	A	p34913	555	1..555	259..531
+4opm	pdb	Crystal structure of a putative lipase (lip1) from Acinetobacter baumannii AYE at 1.70 A resolution	x-ray	1.7	A;B	b0v9k7;b0v9k7	330;330	25..330;25..330	71..308;71..308
+4ose	pdb	X-ray Crystal Structure of a Putative Hydrolase from Rickettsia typhi	x-ray	2.4	A;B	q68wt4;q68wt4	290;290	1..290;1..290	37..137;37..137
+4psu	pdb	Crystal structure of alpha/beta hydrolase from Rhodopseudomonas palustris CGA009	x-ray	2.2	A	q6n9m9	295	1..295	42..282
+4pw0	pdb	Alpha/beta hydrolase fold protein from Chitinophaga pinensis	x-ray	1.48	A	c7pex8	280	1..280	35..264
+4q34	pdb	Crystal structure of a putative esterase (BDI_1566) from Parabacteroides distasonis ATCC 8503 at 1.60 A resolution	x-ray	1.6	A	a6lca7	341	20..341	67..228
+4q3l	pdb	Crystal structure of MGS-M2, an alpha/beta hydrolase enzyme from a Medee basin deep-sea metagenome library	x-ray	3.01	A;B;C;D;E;F;G;H	a0a0b5kbt7;a0a0b5kbt7;a0a0b5kbt7;a0a0b5kbt7;a0a0b5kbt7;a0a0b5kbt7;a0a0b5kbt7;a0a0b5kbt7	276;276;276;276;276;276;276;276	1..276;1..276;1..276;1..276;1..276;1..276;1..276;1..276	25..147,195..253;25..147,195..253;25..147,195..253;25..147,195..253;25..147,195..253;25..147,195..253;25..147,195..253;25..147,195..253
+4qes	pdb	Structure of a 16 nm protein cage designed by fusing symmetric oligomeric domains, quadruple mutant, I222 form	x-ray	4.193	A;B;C	p29715;p29715;p29715	278;278;278	1..278;1..278;1..278	26..264;26..264;26..264
+4qf0	pdb	Structure of a 16 nm protein cage designed by fusing symmetric oligomeric domains, quadruple mutant, P21212 form	x-ray	6.494	A;B;C;D;E;F	p29715;p29715;p29715;p29715;p29715;p29715	278;278;278;278;278;278	1..278;1..278;1..278;1..278;1..278;1..278	26..264;26..264;26..264;26..264;26..264;26..264
+4qff	pdb	Structure of a 16 nm protein cage designed by fusing symmetric oligomeric domains, quadruple mutant, P212121 form	x-ray	7.811	A;B;C;D;E;F;G;H;I;J;K;L	p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715;p29715	278;278;278;278;278;278;278;278;278;278;278;278	1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278;1..278	26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264;26..264
+4rnc	pdb	Crystal structure of an esterase RhEst1 from Rhodococcus sp. ECU1013	x-ray	1.95	A;B;C	a0a088cb91;a0a088cb91;a0a088cb91	275;275;275	1..275;1..275;1..275	27..265;27..265;27..265
+4rpc	pdb	Crystal structure of the putative alpha/beta hydrolase family protein from Desulfitobacterium hafniense	x-ray	2.1	A;B	b8fsw0;b8fsw0	260;260	1..260;1..260	21..248;21..248
+4ufn	pdb	Laboratory evolved variant R-C1B1 of potato epoxide hydrolase StEH1	x-ray	2	A;B	q41415;q41415	321;321	1..321;1..321	25..302;25..302
+4ufo	pdb	Laboratory evolved variant R-C1B1D33E6 of potato epoxide hydrolase StEH1	x-ray	2.02	A;B	q41415;q41415	321;321	1..321;1..321	25..302;25..302
+4ufp	pdb	Laboratory evolved variant R-C1B1D33 of potato epoxide hydrolase StEH1	x-ray	2.95	A;B	q41415;q41415	321;321	1..321;1..321	25..302;25..302
+4uhb	pdb	Laboratory evolved variant R-C1 of potato epoxide hydrolase StEH1	x-ray	1.8	A;B	q41415;q41415	321;321	3..321;3..321	25..302;25..302
+4uhc	pdb	Structural studies of a thermophilic esterase from Thermogutta terrifontis (Native)	x-ray	1.03	A	a0a0m3kky6	282	1..282	28..255
+4uhd	pdb	Structural studies of a thermophilic esterase from Thermogutta terrifontis (acetate bound)	x-ray	1.07	A	a0a0m3kky6	282	1..282	28..255
+4uhe	pdb	Structural studies of a thermophilic esterase from Thermogutta terrifontis (malate bound)	x-ray	1.16	A	a0a0m3kky6	282	1..282	28..255
+4uhf	pdb	Structural studies of a thermophilic esterase from Thermogutta terrifontis (L37A mutant with butyrate bound)	x-ray	1.08	A	a0a0m3kky6	282	1..282	28..255
+4uhh	pdb	Structural studies of a thermophilic esterase from Thermogutta terrifontis (cacodylate complex)	x-ray	1.06	A	a0a0h4b872	274	1..274	28..255
+4uuq	pdb	Crystal structure of human mono-glyceride lipase in complex with SAR127303	x-ray	2.36	A;B	q99685;q99685	303;303	1..303;1..303	69..84,118..131,132..145,231..245;69..84,118..131,132..145,231..245
+4wcv	pdb	Haloalkane dehalogenase DhaA mutant from Rhodococcus rhodochrous (T148L+G171Q+A172V+C176G)	x-ray	1.69	A	p0a3g2	293	1..293	34..158
+4wdq	pdb	Crystal structure of haloalkane dehalogenase LinB32 mutant (L177W) from Sphingobium japonicum UT26	x-ray	1.58	A	d4z2g1	296	2..296	31..155
+4wdr	pdb	Crystal structure of haloalkane dehalogenase LinB 140A+143L+177W+211L mutant (LinB86) from Sphingobium japonicum UT26	x-ray	2.5	A;B	d4z2g1;d4z2g1	296;296	4..296;4..296	31..155;31..155
+4x00	pdb	X-ray crystal structure of a putative aryl esterase from Burkholderia cenocepacia	x-ray	1.38	A;B;C;D	b4e794;b4e794;b4e794;b4e794	302;302;302;302	28..302;28..302;28..302;28..302	56..290;56..290;56..290;56..290
+4x6x	pdb	Human soluble epoxide hydrolase in complex with a three substituted cyclopropane derivative	x-ray	1.8	A;B	p34913;p34913	555;555	230..555;230..555	259..531;259..531
+4x6y	pdb	Human soluble epoxide hydrolase in complex with a cyclopropyl urea derivative	x-ray	2.1	A;B	p34913;p34913	555;555	230..555;230..555	259..531;259..531
+4y2j	pdb	Structure of soluble epoxide hydrolase in complex with N-[(1-methyl-1H-pyrazol-3-yl)methyl]-2-phenylethanamine	x-ray	2.15	A	p34913	555	1..555	259..531
+4y2p	pdb	Structure of soluble epoxide hydrolase in complex with N-methyl-1-[3-(pyridin-3-yl)phenyl]methanamine	x-ray	2.05	A	p34913	555	1..555	259..531
+4y2q	pdb	Structure of soluble epoxide hydrolase in complex with 1-[3-(trifluoromethyl)pyridin-2-yl]piperazine	x-ray	2.4	A	p34913	555	1..555	259..531
+4y2r	pdb	Structure of soluble epoxide hydrolase in complex with 2-(piperazin-1-yl)nicotinonitrile	x-ray	2.45	A	p34913	555	1..555	259..531
+4y2s	pdb	Structure of soluble epoxide hydrolase in complex with 1-[3-(trifluoromethyl)phenyl]-1H-pyrazol-4-ol	x-ray	2.3	A	p34913	555	1..555	259..531
+4y2t	pdb	Structure of soluble epoxide hydrolase in complex with 3-[4-(benzyloxy)phenyl]propan-1-ol	x-ray	2.4	A	p34913	555	1..555	259..531
+4y2u	pdb	Structure of soluble epoxide hydrolase in complex with tert-butyl 1,2,3,4-tetrahydroquinolin-3-ylcarbamate	x-ray	2.75	A	p34913	555	1..555	259..531
+4y2v	pdb	Structure of soluble epoxide hydrolase in complex with (4-bromo-3-cyclopropyl-1H-pyrazol-1-yl)acetic acid	x-ray	2.4	A	p34913	555	1..555	259..531
+4y2x	pdb	Structure of soluble epoxide hydrolase in complex with 2-({[2-(adamantan-1-yl)ethyl]amino}methyl)phenol	x-ray	2.5	A	p34913	555	1..555	259..531
+4y2y	pdb	Structure of soluble epoxide hydrolase in complex with 2-(2-fluorophenyl)-N-[(5-methyl-2-thienyl)methyl]ethanamine	x-ray	2.3	A	p34913	555	1..555	259..531
+4y7d	pdb	Alpha/beta hydrolase fold protein from Nakamurella multipartita	x-ray	1.68	A;B	c8x7a4;c8x7a4	299;299	1..299;1..299	31..282;31..282
+4y9s	pdb	structure of an H300N mutant of potato epoxide hydrolase, StEH1	x-ray	2	A;B	q41415;q41415	321;321	3..321;3..321	25..302;25..302
+4yas	pdb	HYDROXYNITRILE LYASE COMPLEXED WITH CHLORALHYDRATE	x-ray	2	A	p52704	257	1..257	5..241
+4yk7	pdb	Crystal structure of S-hydroxynitrile lyase from Manihot esculenta (His103Leu)	x-ray	2.6	A;B;C;D	p52705;p52705;p52705;p52705	258;258;258;258	1..258;1..258;1..258;1..258	5..242;5..242;5..242;5..242
+4yx9	pdb	Crystal structure of the CFTR inhibitory factor Cif bound to tiratricol	x-ray	1.75	A;B;C;D	a0a0m3kl26;a0a0m3kl26;a0a0m3kl26;a0a0m3kl26	301;301;301;301	1..295;1..295;1..295;1..295	35..278;35..278;35..278;35..278
+5a62	pdb	Hydrolytic potential of the ammonia-oxidizing Thaumarchaeon Nitrososphaera gargenis - crystal structure and activity profiles of carboxylesterases linked to their metabolic function	x-ray	1.5	A	k0im51	277	1..277	25..130
+5ahx	pdb	Apo structure of soluble epoxide hydrolase	x-ray	2	A	p34913	555	1..548	259..531
+5ai0	pdb	Ligand complex structure of soluble epoxide hydrolase	x-ray	1.75	A	p34913	555	1..548	259..531
+5ai4	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.93	A	p34913	555	1..548	259..531
+5ai5	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.28	A	p34913	555	1..548	259..531
+5ai6	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.3	A	p34913	555	1..548	259..531
+5ai8	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.85	A	p34913	555	1..548	259..531
+5ai9	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.8	A	p34913	555	1..548	259..531
+5aia	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.26	A	p34913	555	1..548	259..531
+5aib	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.95	A	p34913	555	1..548	259..531
+5aic	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.89	A	p34913	555	1..548	259..531
+5ak3	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.28	A	p34913	555	1..548	259..531
+5ak4	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.79	A	p34913	555	1..548	259..531
+5ak5	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.22	A	p34913	555	1..548	259..531
+5ak6	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.15	A	p34913	555	1..548	259..531
+5ake	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.26	A	p34913	555	1..548	259..531
+5akg	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.51	A	p34913	555	1..548	259..531
+5akh	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.1	A	p34913	555	1..548	259..531
+5aki	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.81	A	p34913	555	1..548	259..531
+5akj	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.03	A	p34913	555	1..548	259..531
+5akk	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.9	A	p34913	555	1..548	259..531
+5akl	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2	A	p34913	555	1..548	259..531
+5akx	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.09	A	p34913	555	1..548	259..531
+5aky	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.18	A	p34913	555	1..548	259..531
+5akz	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.18	A	p34913	555	1..548	259..531
+5ald	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.26	A	p34913	555	1..548	259..531
+5ale	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.95	A	p34913	555	1..548	259..531
+5alf	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.32	A	p34913	555	1..548	259..531
+5alg	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.4	A	p34913	555	1..548	259..531
+5alh	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.9	A	p34913	555	1..548	259..531
+5ali	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.85	A	p34913	555	1..548	259..531
+5alj	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.1	A	p34913	555	1..548	259..531
+5alk	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.33	A	p34913	555	1..548	259..531
+5all	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.2	A	p34913	555	1..548	259..531
+5alm	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2	A	p34913	555	1..548	259..531
+5aln	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2	A	p34913	555	1..548	259..531
+5alo	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2	A	p34913	555	1..548	259..531
+5alp	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.06	A	p34913	555	1..548	259..531
+5alq	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.78	A	p34913	555	1..548	259..531
+5alr	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.6	A	p34913	555	1..548	259..531
+5als	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.57	A	p34913	555	1..548	259..531
+5alt	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.15	A	p34913	555	1..548	259..531
+5alu	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.87	A	p34913	555	1..548	259..531
+5alv	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.8	A	p34913	555	1..548	259..531
+5alw	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.2	A	p34913	555	1..548	259..531
+5alx	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.23	A	p34913	555	1..548	259..531
+5aly	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.9	A	p34913	555	1..548	259..531
+5alz	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.3	A	p34913	555	1..548	259..531
+5am0	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.88	A	p34913	555	1..548	259..531
+5am1	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.15	A	p34913	555	1..548	259..531
+5am2	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.7	A	p34913	555	1..548	259..531
+5am3	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.2	A	p34913	555	1..548	259..531
+5am4	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	1.87	A	p34913	555	1..548	259..531
+5am5	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.26	A	p34913	555	1..548	259..531
+5bov	pdb	Crystal structure of a putative epoxide hydrolase (KPN_01808) from Klebsiella pneumoniae subsp. pneumoniae MGH 78578 at 1.60 A resolution	x-ray	1.6	A;B;C;D	a6t9g8;a6t9g8;a6t9g8;a6t9g8	338;338;338;338	35..338;35..338;35..338;35..338	67..194;67..194;67..194;67..194
+5c7y	pdb	ZHD-Intermediate complex after ZHD crystal soaking in ZEN for 9min	x-ray	1.75	A;B	q8nkb0;q8nkb0	264;264	1..264;1..264	27..127;27..127
+5c81	pdb	ZHD-Intermediate complex after ZHD crystal soaking in ZEN for 12min	x-ray	1.8	A;B	q8nkb0;q8nkb0	264;264	1..264;1..264	27..127;27..127
+5c8x	pdb	ZHD-Intermediate complex after ZHD crystal soaking in ZEN for 20min	x-ray	1.8	A;B	q8nkb0;q8nkb0	264;264	1..264;1..264	27..127;27..127
+5c8z	pdb	ZHD-ZGR complex after ZHD crystal soaking in ZEN for 30min	x-ray	1.6	A;B	q8nkb0;q8nkb0	264;264	1..264;1..264	27..127;27..127
+5cbk	pdb	Crystal structure of the strigolactone receptor ShHTL5 from Striga hermonthica	x-ray	2.462	A	a0a0m5i297	271	1..271	20..255
+5cw2	pdb	Crystal structure of Epoxide Hydrolase A from Mycobacterium thermoresistibile	x-ray	2	A;B;C;D	g7cf24;g7cf24;g7cf24;g7cf24	321;321;321;321	1..321;1..321;1..321;1..321	27..302;27..302;27..302;27..302
+5d6o	pdb	Orthorhombic Crystal Structure of an acetylester hydrolase from Corynebacterium glutamicum	x-ray	1.8	A;B;C;D	q8ns43;q8ns43;q8ns43;q8ns43	349;349;349;349	1..349;1..349;1..349;1..349	60..329;60..329;60..329;60..329
+5d7b	pdb	Trigonal Crystal Structure of an acetylester hydrolase from Corynebacterium glutamicum	x-ray	3.2	A;B	q8ns43;q8ns43	349;349	1..349;1..349	60..329;60..329
+5dj5	pdb	Crystal structure of rice DWARF14 in complex with synthetic strigolactone GR24	x-ray	2.4	A;B	q10qa5;q10qa5	318;318	52..318;52..318	72..309;72..309
+5dnu	pdb	Crystal structure of Striga KAI2-like protein in complex with karrikin	x-ray	1.2	A	a0a0m3pn85	276	1..269	20..254
+5dnv	pdb	Crystal structure of KAI2-like protein from Striga (apo state 2)	x-ray	2.65	A	a0a0m3pn85	276	1..269	20..254
+5dnw	pdb	Crystal structure of KAI2-like protein from Striga (apo state 1)	x-ray	2.02	A	a0a0m3pn85	276	1..269	20..254
+5e4y	pdb	Orthorhombic structure of the acetyl esterase MekB	x-ray	2.8	A;B	q0mrg5;q0mrg5	349;349	2..349;2..349	67..300;67..300
+5efz	pdb	Monoclinic structure of the acetyl esterase MekB	x-ray	1.82	A;B;C;D;E;F	q0mrg5;q0mrg5;q0mrg5;q0mrg5;q0mrg5;q0mrg5	349;349;349;349;349;349	2..349;2..349;2..349;2..349;2..349;2..349	67..300;67..300;67..300;67..300;67..300;67..300
+5egn	pdb	Est816 as an N-Acyl homoserine lactone degrading enzyme	x-ray	2.636	A;B;C;D;E;F;G;H	i6yrg4;i6yrg4;i6yrg4;i6yrg4;i6yrg4;i6yrg4;i6yrg4;i6yrg4	271;271;271;271;271;271;271;271	1..261;1..261;1..261;1..261;1..261;1..261;1..261;1..261	22..254;22..254;22..254;22..254;22..254;22..254;22..254;22..254
+5esr	pdb	Crystal structure of haloalkane dehalogenase (DccA) from Caulobacter crescentus	x-ray	1.476	A	q9a919	302	1..302	49..290
+5flk	pdb	Structure of haloalkane dehalogenase variant DhaA101	x-ray	0.99	A	p0a3g2	293	1..293	34..158
+5fp0	pdb	ligand complex structure of soluble epoxide hydrolase	x-ray	2.35	A	p34913	555	1..548	259..531
+5frd	pdb	Structure of a thermophilic esterase	x-ray	1.4	A;B	o28735;o28735	251;251	1..251;1..251	26..241;26..241
+5h3h	pdb	Esterase (EaEST) from Exiguobacterium antarcticum	x-ray	1.9	A;B	k0acl0;k0acl0	272;272	1..272;1..272	23..122,212..226;23..122,212..226
+5hdf	pdb	Hydrolase SeMet-StnA	x-ray	2.71	A;B;C;D	l7pij2;l7pij2;l7pij2;l7pij2	375;375;375;375	2..375;2..375;2..375;2..375	98..359;98..359;98..359;98..359
+5hdp	pdb	Hydrolase StnA mutant - S185A	x-ray	2.9	A;B;C;D;E;F;G	l7pij2;l7pij2;l7pij2;l7pij2;l7pij2;l7pij2;l7pij2	375;375;375;375;375;375;375	2..375;2..375;2..375;2..375;2..375;2..375;2..375	98..359;98..359;98..359;98..359;98..359;98..359;98..359
+5hk8	pdb	Crystal structure of a methylesterase protein MES16 from Arabidopsis	x-ray	2.8	A;B;C;D;E;F	o23512;o23512;o23512;o23512;o23512;o23512	262;262;262;262;262;262	1..262;1..262;1..262;1..262;1..262;1..262	13..248;13..248;13..248;13..248;13..248;13..248
+5hk9	pdb	Crystal structure of the CFTR inhibitory factor Cif bound to a urea inhibitor	x-ray	1.8	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5hka	pdb	Crystal structure of the CFTR inhibitory factor Cif bound to an amide inhibitor	x-ray	2.05	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5hkb	pdb	Crystal structure of the CFTR inhibitory factor Cif bound to the inhibitor KB2115	x-ray	1.65	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5hzg	pdb	The crystal structure of the strigolactone-induced AtD14-D3-ASK1 complex	x-ray	3.3	A;E	q9sqr3;q9sqr3	267;267	1..267;1..267	22..259;22..259
+5ie4	pdb	Crystal structure of a lactonase mutant in complex with substrate a	x-ray	2.8	A;B;C	q8nkb0;q8nkb0;q8nkb0	264;264;264	1..264;1..264;1..264	27..127;27..127;27..127
+5ie5	pdb	Crystal structure of a lactonase double mutant in complex with substrate a	x-ray	2.39	A;B;C	q8nkb0;q8nkb0;q8nkb0	264;264;264	1..264;1..264;1..264	27..127;27..127;27..127
+5ie6	pdb	Crystal structure of a lactonase mutant in complex with substrate b	x-ray	2.67	A;B;C	q8nkb0;q8nkb0;q8nkb0	264;264;264	1..264;1..264;1..264	27..127;27..127;27..127
+5ie7	pdb	Crystal structure of a lactonase double mutant in complex with substrate b	x-ray	2.5	A;B;C	q8nkb0;q8nkb0;q8nkb0	264;264;264	1..264;1..264;1..264	27..127;27..127;27..127
+5jkf	pdb	Crystal structure of esterase E22	x-ray	2.393	A;B	a0a1b1h1k0;a0a1b1h1k0	478;478	104..473;104..473	206..422;206..422
+5jkj	pdb	Crystal structure of esterase E22 L374D mutant	x-ray	1.55	A;B	a0a1b1h1k0;a0a1b1h1k0	478;478	104..473;104..473	206..422;206..422
+5jyc	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted 14,15-EET hydrolysis intermediate	x-ray	2	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5jz9	pdb	Crystal structure of HsaD bound to 3,5-dichloro-4-hydroxybenzenesulphonic acid	x-ray	2.68	A;B	p9wnh4;p9wnh4	291;291	7..290;7..290	38..275;38..275
+5jzb	pdb	Crystal structure of HsaD bound to 3,5-dichlorobenzene sulphonamide	x-ray	2.102	A;B	p9wnh5;p9wnh5	291;291	7..288;7..288	38..275;38..275
+5jzs	pdb	HsaD bound to 3,5-dichloro-4-hydroxybenzoic acid	x-ray	2.27	A;B	p9wnh5;p9wnh5	291;291	7..290;7..290	38..275;38..275
+5k3a	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - His280Asn/Fluoroacetate - Cocrystallized - Both Protomers Reacted with Ligand	x-ray	1.511	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+5k3b	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Asp110Asn/Chloroacetate - Cocrystallized	x-ray	1.58	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+5k3c	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - WT/5-Fluorotryptophan	x-ray	1.541	A;B	q6nam1;q6nam1	302;302	3..300;3..300	32..270;32..270
+5k3d	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - WT/Apo - No Halide	x-ray	1.45	A;B	q6nam1;q6nam1	302;302	4..300;4..300	32..270;32..270
+5k3e	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Asp110Asn/Glycolate - Cocrystallized	x-ray	1.54	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+5k3f	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - His280Asn/Fluoroacetate - Cocrystallized - Single Protomer Reacted with Ligand	x-ray	1.54	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+5lip	pdb	PSEUDOMONAS LIPASE COMPLEXED WITH RC-(RP, SP)-1,2-DIOCTYLCARBAMOYLGLYCERO-3-O-OCTYLPHOSPHONATE	x-ray	2.9	A	p22088	364	45..364	54..266
+5lka	pdb	Crystal structure of haloalkane dehalogenase LinB 140A+143L+177W+211L mutant (LinB86) from Sphingobium japonicum UT26 at 1.3 A resolution	x-ray	1.298	A	d4z2g1	296	2..296	31..155
+5mxp	pdb	Haloalkane dehalogenase DmxA from Marinobacter sp. ELB17 possessing a unique catalytic residue	x-ray	1.45	A;B	a3jb27;a3jb27	296;296	1..296;1..296	33..276;33..276
+5nyv	pdb	Crystal structure determination from picosecond infrared laser ablated protein crystals by serial synchrotron crystallography	x-ray	1.6	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+5o2g	pdb	Crystal structure determination from picosecond infrared laser ablated protein crystals by serial synchrotron crystallography	x-ray	2.1	A;B	a0a2r4gqn1;a0a2r4gqn1	302;302	1..302;1..302	32..149;32..149
+5o2i	pdb	An efficient setup for fixed-target, time-resolved serial crystallography with optical excitation	x-ray	2	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+5swn	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Asp110Asn/Fluoroacetate - Cocrystallized	x-ray	1.541	A;B	q6nam1;q6nam1	302;302	4..300;4..300	32..270;32..270
+5t4t	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Asp110Asn - Apo No Halide	x-ray	1.511	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+5tnd	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted 1,2-Epoxycyclohexane hydrolysis intermediate	x-ray	1.55	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tne	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted cis-Stilbene Oxide hydrolysis intermediate	x-ray	1.75	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tnf	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted 19,20-EpDPE hydrolysis intermediate	x-ray	1.75	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tng	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted 14,15-EpETE hydrolysis intermediate	x-ray	1.75	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tnh	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted 17,18-EpETE hydrolysis intermediate	x-ray	2.1	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tni	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted S-Styrene oxide hydrolysis intermediate	x-ray	1.8	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tnj	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted 4-Vinyl-1-cyclohexene 1,2-epoxide hydrolysis intermediate	x-ray	1.65	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tnk	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted 1,2-Epoxyoctane hydrolysis intermediate	x-ray	1.65	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tnl	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted (S)-1,2-Epoxyhexane hydrolysis intermediate	x-ray	1.8	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tnm	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted (R)-1,2-Epoxyoctane hydrolysis intermediate	x-ray	1.7	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tnn	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted (S)-1,2-Epoxyoctane hydrolysis intermediate	x-ray	1.95	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tnp	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted Styrene oxide hydrolysis intermediate	x-ray	1.85	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tnq	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted (R)-Styrene oxide hydrolysis intermediate	x-ray	1.5	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tnr	pdb	Crystal structure of the E153Q mutant of the CFTR inhibitory factor Cif containing the adducted 16,17-EpDPE hydrolysis intermediate	x-ray	1.8	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5tns	pdb	Crystal structure of the D129S mutant of the CFTR inhibitory factor Cif containing 1,2-Epoxycyclohexane	x-ray	1.75	A;B;C;D	a0a0h2zd27;a0a0h2zd27;a0a0h2zd27;a0a0h2zd27	319;319;319;319	25..319;25..319;25..319;25..319	59..302;59..302;59..302;59..302
+5ugq	pdb	Crystal Structure of Hip1 (Rv2224c)	x-ray	2.609	A	p9whr3	520	14..14,35..520	102..497
+5uno	pdb	Crystal Structure of Hip1 (Rv2224c)	x-ray	2.603	A	p9whr3	520	14..14,35..520	102..497
+5uoh	pdb	Crystal Structure of Hip1 (Rv2224c) T466A mutant	x-ray	2.609	A	p9whr3	520	14..14,35..520	102..497
+5uro	pdb	Structure of a soluble epoxide hydrolase identified in Trichoderma reesei	x-ray	1.701	A	g0r7e2	343	1..335	39..152
+5uxz	pdb	X-ray crystal structure of Halotag bound to the P9 benzothiadiazole fluorogenic ligand	x-ray	1.92	A;B	p0a3g2;p0a3g2	293;293	4..290;4..290	34..158;34..158
+5uy1	pdb	X-ray crystal structure of apo Halotag	x-ray	1.35	A;B	p0a3g2;p0a3g2	293;293	4..290;4..290	34..158;34..158
+5v7o	pdb	Crystal Structure of NosK from Streptomyces actuosus	x-ray	2.3	A	c6fx50	270	1..270	32..247
+5vnp	pdb	X-ray crystal structure of Halotag bound to the P1 benzoxadiazole fluorogenic ligand	x-ray	2.23	A;B	p0a3g2;p0a3g2	293;293	4..293;4..293	34..158;34..158
+5w15	pdb	Crystal structure of an alpha/beta hydrolase fold protein from Burkholderia ambifaria.	x-ray	1.75	A;B;C;D	b1ypy7;b1ypy7;b1ypy7;b1ypy7	267;267;267;267	1..267;1..267;1..267;1..267	26..263;26..263;26..263;26..263
+5w8o	pdb	Homoserine transacetylase MetX from Mycobacterium hassiacum	x-ray	1.47	A;B	k5b926;k5b926	374;374	13..372;13..372	52..355;52..355
+5w8p	pdb	Homoserine transacetylase MetX from Mycobacterium abscessus	x-ray	1.69	A;B	b1mg17;b1mg17	384;384	13..379;13..379	55..363;55..363
+5xm6	pdb	the overall structure of VrEH2	x-ray	2.501	A;B;C	a0a0r5nga4;a0a0r5nga4;a0a0r5nga4	318;318;318	1..318;1..318;1..318	25..142;25..142;25..142
+5xmd	pdb	Crystal structure of epoxide hydrolase VrEH1 from Vigna radiata	x-ray	2	A;B;C;D	e5l4l1;e5l4l1;e5l4l1;e5l4l1	319;319;319;319	1..319;1..319;1..319;1..319	25..130;25..130;25..130;25..130
+5xmw	pdb	Selenomethionine-derivated ZHD	x-ray	3	A;B	q8nkb0;q8nkb0	264;264	1..264;1..264	27..127;27..127
+5xo6	pdb	Crystal structure of a novel ZEN lactonase mutant	x-ray	2.38	A;B;C;D;E;F;G;H	a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1	266;266;266;266;266;266;266;266	1..266;1..266;1..266;1..266;1..266;1..266;1..266;1..266	29..125;29..125;29..125;29..125;29..125;29..125;29..125;29..125
+5xo7	pdb	Crystal structure of a novel ZEN lactonase mutant with ligand a	x-ray	1.88	A;B;C;D;E;F;G;H	a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1	266;266;266;266;266;266;266;266	1..266;1..266;1..266;1..266;1..266;1..266;1..266;1..266	29..125;29..125;29..125;29..125;29..125;29..125;29..125;29..125
+5xo8	pdb	Crystal structure of a novel ZEN lactonase mutant with ligand Z	x-ray	1.88	A;B;C;D;E;F;G;H	a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1	266;266;266;266;266;266;266;266	1..266;1..266;1..266;1..266;1..266;1..266;1..266;1..266	29..125;29..125;29..125;29..125;29..125;29..125;29..125;29..125
+5xwz	pdb	Crystal structure of a lactonase from Cladophialophora bantiana	x-ray	1.75	A;B;C;D	a0a0d2h023;a0a0d2h023;a0a0d2h023;a0a0d2h023	265;265;265;265	1..265;1..265;1..265;1..265	43..126;43..126;43..126;43..126
+5y2x	pdb	Crystal structure of apo-HaloTag (M175C)	x-ray	2.02	A	p0a3g3	293	2..293	34..158
+5y2y	pdb	Crystal structure of HaloTag (M175C) complexed with dansyl-PEG2-HaloTag ligand	x-ray	2.27	A;B	p0a3g3;p0a3g3	293;293	2..293;2..293	34..158;34..158
+5y51	pdb	Crystal structure of PytH_H230A	x-ray	2.3	A;B;C;D;E;F	d0vus3;d0vus3;d0vus3;d0vus3;d0vus3;d0vus3	280;280;280;280;280;280	1..280;1..280;1..280;1..280;1..280;1..280	6..243;6..243;6..243;6..243;6..243;6..243
+5y57	pdb	Crystal structure of a Novel Pyrethroid Hydrolase from Sphingobium faniae JZ-2	x-ray	1.961	A;B;C;D;E;F	d0vus3;d0vus3;d0vus3;d0vus3;d0vus3;d0vus3	280;280;280;280;280;280	1..280;1..280;1..280;1..280;1..280;1..280	6..243;6..243;6..243;6..243;6..243;6..243
+5y5d	pdb	The crystal structure of VrEH2 mutant M263W	x-ray	1.85	B	a0a0r5nga4	318	1..318	25..142
+5y5r	pdb	Crystal structure of a novel Pyrethroid Hydrolase PytH with BIF	x-ray	1.899	A;B;C;D;E;F	d0vus3;d0vus3;d0vus3;d0vus3;d0vus3;d0vus3	280;280;280;280;280;280	1..280;1..280;1..280;1..280;1..280;1..280	6..243;6..243;6..243;6..243;6..243;6..243
+5y5v	pdb	Crystal structure of a novel Pyrethroid Hydrolase PytH (S78A)	x-ray	2.98	A;B;C;D;E;F	d0vus3;d0vus3;d0vus3;d0vus3;d0vus3;d0vus3	280;280;280;280;280;280	1..280;1..280;1..280;1..280;1..280;1..280	6..243;6..243;6..243;6..243;6..243;6..243
+5y6y	pdb	The crystal structure of VrEH2 mutant M263N	x-ray	1.5	B	a0a0r5nga4	318	1..318	25..142
+5yas	pdb	HYDROXYNITRILE LYASE COMPLEXED WITH HEXAFLUOROACETONE	x-ray	2.2	A	p52704	257	1..257	5..241
+5yb5	pdb	The complex crystal structure of VrEH2 mutant M263N with SNO	x-ray	1.903	B	a0a0r5nga4	318	1..318	25..142
+5yhp	pdb	Proline iminopeptidase from Psychrophilic yeast glaciozyma antarctica	x-ray	2.393	A;B	a0a2h4a311;a0a2h4a311	344;344	1..344;1..344	60..325;60..325
+5yz7	pdb	Crystal structure of OsD14 in complex with D-ring-opened 7'-carba-4BD	x-ray	1.898	A;B	q10qa5;q10qa5	318;318	54..318;54..318	72..309;72..309
+5z5j	pdb	Crystal structure of a lactonase double mutant	x-ray	2.15	A;B;C;D;E;F;G;H	a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1	266;266;266;266;266;266;266;266	3..266;3..266;3..266;3..266;3..266;3..266;3..266;3..266	29..125;29..125;29..125;29..125;29..125;29..125;29..125;29..125
+5z7j	pdb	Crystal structure of a lactonase double mutant in complex with ligand l	x-ray	1.98	A;B;C;D;E;F;G;H	a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1	266;266;266;266;266;266;266;266	3..266;3..266;3..266;3..266;3..266;3..266;3..266;3..266	29..125;29..125;29..125;29..125;29..125;29..125;29..125;29..125
+5z7w	pdb	Crystal structure of Striga hermonthica HTL1 (ShHTL1)	x-ray	1.657	A;B	a0a0m4av81;a0a0m4av81	272;272	1..272;1..272	20..257;20..257
+5z7x	pdb	Crystal structure of Striga hermonthica HTL4 (ShHTL4)	x-ray	2.055	A	a0a0m4amq0	271	1..269	20..256
+5z7y	pdb	Crystal structure of Striga hermonthica HTL7 (ShHTL7)	x-ray	1.9	A;B;C;D	a0a0m3pna2;a0a0m3pna2;a0a0m3pna2;a0a0m3pna2	271;271;271;271	1..271;1..271;1..271;1..271	20..256;20..256;20..256;20..256
+5z7z	pdb	Crystal structure of Striga hermonthica Dwarf14 (ShD14)	x-ray	1.978	A;B	a0a2u8xq45;a0a2u8xq45	266;266	4..266;4..266	21..258;21..258
+5z82	pdb	Structural basis for specific inhibition of highly sensitive ShHTL7 receptor	x-ray	1.694	A	a0a0m3pna2	271	1..271	20..256
+5z89	pdb	Structural basis for specific inhibition of highly sensitive ShHTL7 receptor	x-ray	1.42	A	a0a0m3pna2	271	1..271	20..256
+5z8p	pdb	Structural basis for specific inhibition of highly sensitive ShHTL7 receptor	x-ray	1.35	A	a0a0m3pna2	271	1..271	20..256
+5z95	pdb	Structural basis for specific inhibition of highly sensitive ShHTL7 receptor	x-ray	1.2	A	a0a0m3pna2	271	1..271	20..256
+5z97	pdb	Crystal structure of a lactonase double mutant in complex with ligand N	x-ray	2.32	A;B;C;D	a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1;a0a0d2ilk1	266;266;266;266	4..266;4..266;4..266;4..266	29..125;29..125;29..125;29..125
+5z9g	pdb	Crystal structure of KAI2	x-ray	1.49	A	q9szu7	270	1..270	20..257
+5z9h	pdb	Crystal structure of KAI2_ply2(A219V)	x-ray	1.49	A	q9szu7	270	1..270	20..257
+5zhr	pdb	Crystal structure of OsD14 in complex with covalently bound KK094	x-ray	1.45	A;B	q10qa5;q10qa5	318;318	54..318;54..318	72..309;72..309
+5zhs	pdb	Crystal structure of OsD14 in complex with covalently bound KK052	x-ray	1.49	A	q10qa5	318	54..318	72..309
+5zht	pdb	Crystal structure of OsD14 in complex with covalently bound KK073	x-ray	1.532	A	q10qa5	318	54..318	72..309
+5zun	pdb	Crystal structure of human monoacylglycerol lipase in complex with compound 3l	x-ray	1.35	A	q99685	303	1..303	69..84,118..131,132..145,231..245
+6a9d	pdb	Crystal structure of the strigolactone receptor ShHTL7 from Striga hermonthica	x-ray	2.302	A;B	a0a0m3pna2;a0a0m3pna2	271;271	1..271;1..271	20..256;20..256
+6ap6	pdb	Crystal Structure of DAD2 in complex with tolfenamic acid	x-ray	1.65	A;B	j9u5u9;j9u5u9	267;267	1..267;1..267	21..258;21..258
+6ap7	pdb	Crystal Structure of DAD2 in complex with 2-(2-methyl-3-nitroanilino)benzoic acid	x-ray	1.51	A;B	j9u5u9;j9u5u9	267;267	1..267;1..267	21..258;21..258
+6ap8	pdb	Crystal Structure of rice D14 bound to 2-(2-methyl-3-nitroanilino)benzoic acid	x-ray	1.27	A;B	q10qa5;q10qa5	318;318	52..318;52..318	72..309;72..309
+6atx	pdb	Crystal structure of Physcomitrella patens KAI2-like C	x-ray	2.74034	A	a9skf7	274	1..274	23..260
+6aum	pdb	Crystal structure of human soluble epoxide hydrolase complexed with trans-4-[4-(3-trifluoromethoxyphenyl-l-ureido)-cyclohexyloxy]-benzoic acid.	x-ray	2.95	A	p34913	555	1..555	259..531
+6ax1	pdb	Structure of human monoacylglycerol lipase bound to a covalent inhibitor	x-ray	2.26	A;B	q99685;q99685	303;303	1..303;1..303	69..84,118..131,132..145,231..245;69..84,118..131,132..145,231..245
+6azb	pdb	Crystal structure of Physcomitrella patens KAI2-like E	x-ray	2.00004	A;B	a9st85;a9st85	270;270	1..270;1..270	21..176;21..176
+6azc	pdb	Crystal structure of Physcomitrella patens KAI2-like E S166A	x-ray	2.00001	A;B	a9st85;a9st85	270;270	1..270;1..270	21..176;21..176
+6azd	pdb	Crystal structure of Physcomitrella patens KAI2-like H	x-ray	1.97011	A	a9sg07	269	1..269	20..157,212..226
+6bq0	pdb	Structure of human monoacylglycerol lipase bound to a covalent inhibitor	x-ray	2	A;B	q99685;q99685	303;303	1..303;1..303	69..84,118..131,132..145,231..245;69..84,118..131,132..145,231..245
+6brt	pdb	F-box protein CTH with hydrolase	x-ray	2.393	A;B;C;D;E;F;G;H	a0a0d9z3k8;a0a0d9z3k8;a0a0d9z3k8;a0a0d9z3k8;a0a0d9z3k8;a0a0d9z3k8;a0a0d9z3k8;a0a0d9z3k8	294;294;294;294;294;294;294;294	22..283;22..283;22..283;22..283;22..283;22..283;22..283;22..283	38..275;38..275;38..275;38..275;38..275;38..275;38..275;38..275
+6cl4	pdb	LipC12 - Lipase from metagenomics	x-ray	2.64	A	g1apt8	293	1..293	9..176
+6cob	pdb	AtHNL enantioselectivity mutant At-A9-H7 Apo, Y13C,Y121L,P126F,L128W,C131T,F179L,A209I	x-ray	1.82	A;B	q9lft6;q9lft6	258;258	1..258;1..258	7..246;7..246
+6coc	pdb	AtHNL enantioselectivity mutant At-A9-H7 Apo, Y13C,Y121L,P126F,L128W,C131T,F179L,A209I with benzaldehyde	x-ray	1.93	A;B	q9lft6;q9lft6	258;258	1..258;1..258	7..246;7..246
+6cod	pdb	AtHNL enantioselectivity mutant At-A9-H7 Apo Y13C,Y121L,P126F,L128W,C131T,F179L,A209I with benzaldehyde	x-ray	1.8	A;B	q9lft6;q9lft6	258;258	1..258;1..258	7..246;7..246
+6coe	pdb	AtHNL enantioselectivity mutant At-A9-H7 Apo Y13C,Y121L,P126F,L128W,C131T,F179L,A209I with benzaldehyde, MANDELIC ACID NITRILE	x-ray	1.844	A;B	q9lft6;q9lft6	258;258	1..258;1..258	7..246;7..246
+6cof	pdb	AtHNL enantioselectivity mutant At-A9-H7 Apo, Y13C,Y121L,P126F,L128W,C131T,A209I	x-ray	1.52	A;B	q9lft6;q9lft6	258;258	1..258;1..258	7..246;7..246
+6cog	pdb	AtHNL enantioselectivity mutant At-A9-H7 Apo, Y13C,Y121L,P126F,L128W,C131T,A209I with benzaldehyde	x-ray	1.8	A;B	q9lft6;q9lft6	258;258	1..258;1..258	7..246;7..246
+6coh	pdb	AtHNL enantioselectivity mutant At-A9-H7 Apo, Y13C,Y121L,P126F,L128W,C131T,A209I with benzaldehyde, MANDELIC ACID NITRILE	x-ray	2.367	A;B	q9lft6;q9lft6	258;258	1..258;1..258	7..246;7..246
+6coi	pdb	AtHNL enantioselectivity mutant At-A9-H7 Apo, Y13C,Y121L,P126F,L128W,C131T,A209I with CYANIDE, benzaldehyde, MANDELIC ACID NITRILE	x-ray	2.024	A;B	q9lft6;q9lft6	258;258	1..258;1..258	7..246;7..246
+6eic	pdb	Crystal strukture of Rv0183, a Monoglyceride Lipase from Mycobacterium Tuberculosis	x-ray	1.8	A;B;C	o07427;o07427;o07427	279;279;279	1..279;1..279;1..279	57..72,106..119,120..133,218..232;57..72,106..119,120..133,218..232;57..72,106..119,120..133,218..232
+6elx	pdb	Oryza sativa DWARF14	x-ray	1.35	A;B	q10qa5;q10qa5	318;318	52..318;52..318	72..309;72..309
+6f9o	pdb	Crystal structure of cold-adapted haloalkane dehalogenase DpcA from Psychrobacter cryohalolentis K5	x-ray	1.05	A	q1qbb9	303	1..303	48..188
+6fr2	pdb	Soluble epoxide hydrolase in complex with LK864	x-ray	2.262	A	p34913	555	219..219,222..555	259..531
+6fsx	pdb	The hit-and-return system enables efficient time-resolved serial synchrotron crystallography	x-ray	1.8	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6gxd	pdb	The hit-and-return system enables efficient time-resolved serial synchrotron crystallography: FAcD752MS after reaction initiation	x-ray	1.8	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6gxf	pdb	The hit-and-return system enables efficient time-resolved serial synchrotron crystallography: RADDAM1	x-ray	1.8	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6gxh	pdb	The hit-and-return system enables efficient time-resolved serial synchrotron crystallography: FAcD 0MS after reaction initiation	x-ray	1.802	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6gxl	pdb	The hit-and-return system enables efficient time-resolved serial synchrotron crystallography: RADDAM2	x-ray	1.8	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6gxt	pdb	The hit-and-return system enables efficient time-resolved serial synchrotron crystallography: FAcD2052MS after reaction initiation	x-ray	1.95	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6hgv	pdb	Soluble epoxide hydrolase in complex with talinolol	x-ray	2	A	p34913	555	219..219,222..555	259..531
+6hgw	pdb	Soluble epoxide hydrolase in complex with 2-(4-fluorophenyl)-N-(4-phenoxybenzyl)ethanamine	x-ray	2.407	A	p34913	555	219..219,222..555	259..531
+6hgx	pdb	Soluble epoxide hydrolase in complex with 1-(4-((4-(tert-butyl)morpholin-2-yl)methoxy)phenyl)-3-cyclohexylurea	x-ray	2.16	A	p34913	555	219..219,222..555	259..531
+6i5e	pdb	X-ray structure of apo human soluble Epoxide Hydrolase C-terminal Domain (hsEH CTD)	x-ray	2.6	A;B	p34913;p34913	555;555	230..555;230..555	259..531;259..531
+6i5g	pdb	X-ray structure of human soluble Epoxide Hydrolase C-terminal Domain (hsEH CTD)in complex with 15d-PGJ2	x-ray	2	A;B	p34913;p34913	555;555	230..555;230..555	259..531;259..531
+6i8w	pdb	Crystal structure of a membrane phospholipase A, a novel bacterial virulence factor	x-ray	2	A;B	q9kjg6;q9kjg6	315;315	1..315;1..315	65..298;65..298
+6iog	pdb	Crystal structure of Homoserine O-acetyltransferase from Mycobacterium smegmatis ATCC 19420	x-ray	1.55	A;B	a0qsz0;a0qsz0	380;380	14..380;14..380	59..363;59..363
+6ioh	pdb	Crystal structure of Homoserine O-acetyltransferase in complex with Homoserine from Mycobacterium smegmatis ATCC 19420	x-ray	2	A;B	a0qsz0;a0qsz0	380;380	14..380;14..380	59..363;59..363
+6ioi	pdb	Crystal structure of Homoserine O-acetyltransferase in complex with CoA from Mycobacterium smegmatis ATCC 19420	x-ray	1.6	A;B	a0qsz0;a0qsz0	380;380	14..380;14..380	59..363;59..363
+6j2r	pdb	Crystal structure of Striga hermonthica HTL8 (ShHTL8)	x-ray	1.4	A	a0a0m4apj4	272	1..272	21..257
+6jd9	pdb	Proteus mirabilis lipase mutant - I118V/E130G	x-ray	1.58	A	a0a1z1sx23	287	2..287	6..119
+6jqz	pdb	ZHD/H242A complex with ZEN	x-ray	2.09	A;B	a0a0n9xbu7;a0a0n9xbu7	264;264	1..264;1..264	27..127;27..127
+6jr2	pdb	ZHD/H242A complex with aZOL	x-ray	1.65	A;B	a0a0n9xbu7;a0a0n9xbu7	264;264	1..264;1..264	27..127;27..127
+6jr5	pdb	ZHD/H242A complex with bZOL	x-ray	2.08	A;B	a0a0n9xbu7;a0a0n9xbu7	264;264	1..264;1..264	27..127;27..127
+6jr9	pdb	ZHD/W183F complex with ZEN	x-ray	1.72	A;B	a0a0n9xbu7;a0a0n9xbu7	264;264	1..264;1..264	27..127;27..127
+6jra	pdb	ZHD/W183F complex with hydrolyzed aZOL	x-ray	1.8	A;B	a0a0n9xbu7;a0a0n9xbu7	264;264	1..264;1..264	27..127;27..127
+6jrb	pdb	ZHD/W183F complex with bZOL	x-ray	1.8	A;B	a0a0n9xbu7;a0a0n9xbu7	264;264	1..264;1..264	27..127;27..127
+6jrc	pdb	ZHD complex with hydrolyzed alpha-ZOL	x-ray	1.65	A;B	a0a0n9xbu7;a0a0n9xbu7	264;264	1..264;1..264	27..127;27..127
+6jrd	pdb	ZHD complex with hydrolyzed beta-ZOL	x-ray	1.65	A;B	q8nkb0;q8nkb0	264;264	1..264;1..264	27..127;27..127
+6k5e	pdb	Crystal structure of BioH from Klebsiella pneumonia	x-ray	2.257	A;B;C;D;E;F	a6tf35;a6tf35;a6tf35;a6tf35;a6tf35;a6tf35	257;257;257;257;257;257	1..257;1..257;1..257;1..257;1..257;1..257	15..241;15..241;15..241;15..241;15..241;15..241
+6kxh	pdb	Alp1U_Y247F mutant in complex with Fluostatin C	x-ray	1.7804	A;B;C;D	a0a0k2ajy3;a0a0k2ajy3;a0a0k2ajy3;a0a0k2ajy3	326;326;326;326	8..326;8..326;8..326;8..326	72..174;72..174;72..174;72..174
+6kxr	pdb	Crystal structure of wild type Alp1U from the biosynthesis of kinamycins	x-ray	2.45074	A;B;C;D	a0a0k2ajy3;a0a0k2ajy3;a0a0k2ajy3;a0a0k2ajy3	326;326;326;326	8..326;8..326;8..326;8..326	72..174;72..174;72..174;72..174
+6l7m	pdb	Characterization and structural analysis of a thermostable zearalenone-degrading enzyme	x-ray	2.4	A;B;C;D	a0a4q4ube4;a0a4q4ube4;a0a4q4ube4;a0a4q4ube4	267;267;267;267	1..267;1..267;1..267;1..267	26..121;26..121;26..121;26..121
+6muh	pdb	Fluoroacetate dehalogenase, room temperature structure solved by serial 1 degree oscillation crystallography	x-ray	1.8	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6muy	pdb	Fluoroacetate dehalogenase, room temperature structure solved by serial 3 degree oscillation crystallography	x-ray	1.8	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6mzz	pdb	Fluoroacetate dehalogenase, room temperature structure, using first 1 degree of total 3 degree oscillation	x-ray	1.8	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6n00	pdb	Fluoroacetate dehalogenase, room temperature structure, using last 1 degree of total 3 degree oscillation and 144 kGy dose	x-ray	1.9	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6n3k	pdb	Crystal structure of an epoxide hydrolase from Trichoderma reesei in complex with inhibitor 1	x-ray	2.2	A	g0r7e2	343	1..335	39..152
+6n3z	pdb	Crystal structure of an epoxide hydrolase from Trichoderma reesei in complex with inhibitor 4	x-ray	2.238	A	g0r7e2	343	1..335	39..152
+6n5f	pdb	Crystal structure of an epoxide hydrolase from Trichoderma reesei in complex with inhibitor 3	x-ray	1.93	A	g0r7e2	343	1..335	39..152
+6n5g	pdb	Crystal structure of an epoxide hydrolase from Trichoderma reesei in complex with inhibitor 2	x-ray	2.6	A	g0r7e2	343	1..335	39..152
+6n5h	pdb	Crystal structure of an epoxide hydrolase from Trichoderma reesei in complex with inhibitor 5	x-ray	1.717	A	g0r7e2	343	1..335	39..152
+6n8e	pdb	Crystal structure of holo-ObiF1, a five domain nonribosomal peptide synthetase from Burkholderia diffusa	x-ray	3	A	a0a5h1zr44	1390	1..1390	1082..1295
+6ny9	pdb	Alpha/beta hydrolase domain-containing protein 10 from mouse	x-ray	1.66	B	q6pe15	297	44..293	69..196
+6o5j	pdb	Crystal Structure of DAD2 bound to quinazolinone derivative	x-ray	1.63	A;B	j9u5u9;j9u5u9	267;267	3..266;3..266	21..258;21..258
+6pux	pdb	Homoserine transacetylase MetX from Mycobacterium tuberculosis	x-ray	1.9	A;B	p9wjy9;p9wjy9	379;379	10..372;10..372	52..356;52..356
+6qhp	pdb	Time resolved structural analysis of the full turnover of an enzyme - 2256 ms covalent intermediate 1	x-ray	1.8	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qhq	pdb	Time resolved structural analysis of the full turnover of an enzyme - 1128 ms	x-ray	1.735	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qhs	pdb	Time resolved structural analysis of the full turnover of an enzyme - 564 ms	x-ray	1.733	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qht	pdb	Time resolved structural analysis of the full turnover of an enzyme - 376 ms	x-ray	1.73	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qhu	pdb	Time resolved structural analysis of the full turnover of an enzyme - 100 ms	x-ray	1.73	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qhv	pdb	Time resolved structural analysis of the full turnover of an enzyme - 100 ms	x-ray	1.715	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qhw	pdb	Time resolved structural analysis of the full turnover of an enzyme - 4512 ms	x-ray	1.718	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qhx	pdb	Time resolved structural analysis of the full turnover of an enzyme - 6156 ms	x-ray	1.85	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qhy	pdb	Time resolved structural analysis of the full turnover of an enzyme - 100 ms	x-ray	1.698	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qhz	pdb	Time resolved structural analysis of the full turnover of an enzyme - 6788 ms	x-ray	1.799	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qi0	pdb	Time resolved structural analysis of the full turnover of an enzyme - 9024 ms	x-ray	1.733	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qi1	pdb	Time resolved structural analysis of the full turnover of an enzyme - 12312 ms	x-ray	1.9	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qi2	pdb	Time resolved structural analysis of the full turnover of an enzyme - 13536 ms	x-ray	1.73	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qi3	pdb	Time resolved structural analysis of the full turnover of an enzyme - 27072 ms	x-ray	1.739	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qks	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Tyr219Phe - Apo	x-ray	1.6	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qkt	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Tyr219Phe - Fluoroacetate soaked 24hr - Glycolate bound	x-ray	1.512	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qku	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Tyr219Phe - Chloroacetate soaked 2hr	x-ray	1.511	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6qkw	pdb	Crystal Structure of the Fluoroacetate Dehalogenase RPA1163 - Tyr219Phe - Fluoroacetate soaked 2hr	x-ray	1.512	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+6s06	pdb	Crystal structure of haloalkane dehalogenase LinB D147C+L177C mutant (LinB73) from Sphingobium japonicum UT26	x-ray	1.15	A	d4z2g1	296	1..296	31..155
+6s42	pdb	The double mutant(Ile44Leu+Gln102His) of haloalkane dehalogenase DbeA from Bradyrhizobium elkanii USDA94 with an eliminated halide-binding site	x-ray	1.4	A	e2rv62	310	1..302	30..141
+6sp5	pdb	Structure of hyperstable haloalkane dehalogenase variant DhaA115	x-ray	1.6	A;B	p0a3g2;p0a3g2	293;293	3..293;3..293	34..158;34..158
+6sp8	pdb	Structure of hyperstable haloalkane dehalogenase variant DhaA115 prepared by the 'soak-and-freeze' method under 150 bar of krypton pressure	x-ray	1.55	A;B	p0a3g2;p0a3g2	293;293	3..293;3..293	34..158;34..158
+6t6h	pdb	Apo structure of the Bottromycin epimerase BotH	x-ray	1.18	A	k4mhv9	293	2..293	34..142
+6t6x	pdb	Structure of the Bottromycin epimerase BotH in complex with substrate	x-ray	1.25	A	k4mhv9	293	2..293	34..142
+6t6y	pdb	Structure of the Bottromycin epimerase BotH in complex with Bottromycin A2	x-ray	1.4	A	k4mhv9	293	2..293	34..142
+6t6z	pdb	Structure of the Bottromycin epimerase BotH in complex with a bottromycin A2 derivative	x-ray	1.7	A	k4mhv9	293	2..293	34..142
+6t70	pdb	Structure of the Bottromycin epimerase BotH in complex with Bottromycin A2 derivative	x-ray	1.58	A	k4mhv9	293	2..293	34..142
+6tj2	pdb	Extracellular alpha/beta-hydrolase from Paenibacillus species shares structural and functional homology to Tobacco Salicylic Acid Binding Protein 2	x-ray	1.32	A;B;C	a0a264duq2;a0a264duq2;a0a264duq2	285;285;285	1..285;1..285;1..285	47..186;47..186;47..186
+6ty7	pdb	Crystal structure of haloalkane dehalogenase variant DhaA115 domain-swapped dimer type-1	x-ray	1.5	A;B	p0a3g2;p0a3g2	293;293	1..293;1..293	34..158;34..158
+6uh8	pdb	Crystal structure of DAD2 N242I mutant	x-ray	1.58	A;B	j9u5u9;j9u5u9	267;267	1..267;1..267	21..258;21..258
+6uh9	pdb	Crystal structure of DAD2 D166A mutant	x-ray	1.52	A;B	j9u5u9;j9u5u9	267;267	1..267;1..267	21..258;21..258
+6v7n	pdb	Crystal Structure of a human Lysosome Resident Glycoprotein, Lysosomal Acid Lipase, and its Implications in Cholesteryl Ester Storage Disease (CESD)	x-ray	2.62	A;B	p38571;p38571	399;399	22..399;22..399	80..380;80..380
+6wym	pdb	Transition metal inhibition and structural refinement of the M. tuberculosis esterase, Rv0045c	x-ray	2	A	i6xu97	298	2..298	52..289
+6wyn	pdb	Transition metal inhibition and structural refinement of the M. tuberculosis esterase, Rv0045c	x-ray	1.81	A	i6xu97	298	2..298	52..289
+6xfo	pdb	Orthorhombic crystal form of Striga hermonthica Dwarf14 (ShD14)	x-ray	1.58	A;B	a0a2u8xq45;a0a2u8xq45	266;266	1..266;1..266	21..258;21..258
+6xt8	pdb	Crystal structure of haloalkane dehalogenase variant DhaA115 domain-swapped dimer type-2	x-ray	1.7	A;B;C;D	p0a3g2;p0a3g2;p0a3g2;p0a3g2	293;293;293;293	1..293;1..293;1..293;1..293	34..158;34..158;34..158;34..158
+6xtc	pdb	Crystal structure of haloalkane dehalogenase variant DhaA177 domain-swapped dimer type-3	x-ray	2.543	A;B;C;D	p0a3g2;p0a3g2;p0a3g2;p0a3g2	293;293;293;293	1..293;1..293;1..293;1..293	34..158;34..158;34..158;34..158
+6xy9	pdb	Crystal structure of haloalkane dehalogenase DbeA-M1 loop variant from Bradyrhizobium elkanii	x-ray	2.2	A;B	e2rv62;e2rv62	310;310	5..142,143..302;5..142,143..302	30..141;30..141
+6y7a	pdb	X-Ray structure of the Haloalkane dehalogenase HaloTag7 labeled with a chloroalkane-tetramethylrhodamine fluorophore substrate	x-ray	1.4	A	p0a3g3	293	4..293	34..158
+6y7b	pdb	X-Ray structure of the Haloalkane dehalogenase HaloTag7 labeled with a chloroalkane-carbopyronine fluorophore substrate	x-ray	3.1	A;B;C;D;E	p0a3g3;p0a3g3;p0a3g3;p0a3g3;p0a3g3	293;293;293;293;293	4..293;4..293;4..293;4..293;4..293	34..158;34..158;34..158;34..158;34..158
+6yas	pdb	HYDROXYNITRILE LYASE FROM HEVEA BRASILIENSIS, ROOM TEMPERATURE STRUCTURE	x-ray	2.2	A	p52704	257	1..257	5..241
+6yl4	pdb	Soluble epoxide hydrolase in complex with 3-((R)-3-(1-hydroxyureido)but-1-yn-1-yl)-N-((S)-3-phenyl-3-(4-trifluoromethoxy)phenyl)propyl)benzamide	x-ray	2.001	A	p34913	555	219..219,222..555	259..531
+6yn2	pdb	Crystal structure of Renilla reniformis luciferase variant RLuc8-W121F/E144Q in complex with a coelenteramide (the postcatalytic enzyme-product complex)	x-ray	1.9	A;B	p27652;p27652	311;311	1..311;1..311	45..291;45..291
+6ynx	pdb	Cryo-EM structure of Tetrahymena thermophila mitochondrial ATP synthase - Fo-subcomplex	em	2.5	t	i7m7b9	460	1..460	153..388
+6yny	pdb	Cryo-EM structure of Tetrahymena thermophila mitochondrial ATP synthase - F1Fo composite dimer model	em	2.7	t	i7m7b9	460	1..460	153..388
+6ynz	pdb	Cryo-EM structure of Tetrahymena thermophila mitochondrial ATP synthase - F1Fo composite tetramer model	em	3.1	t;t3	i7m7b9;i7m7b9	460;460	1..460;1..460	153..388;153..388
+6zcc	pdb	X-Ray structure of the Haloalkane dehalogenase HOB (HaloTag7-based Oligonucleotide Binder) labeled with a chloroalkane-tetramethylrhodamine fluorophore substrate	x-ray	1.52	A	p0a3g3	293	4..293	34..158
+6zvu	pdb	X-RAY STRUCTURE OF THE HALOALKANE DEHALOGENASE HALOTAG7-P174L LABELED WITH A CHLOROALKANE-TETRAMETHYLRHODAMINE FLUOROPHORE SUBSTRATE	x-ray	1.4	A	p0a3g3	293	4..293	34..158
+6zvv	pdb	X-RAY STRUCTURE OF THE HALOALKANE DEHALOGENASE HALOTAG7-P174W LABELED WITH A CHLOROALKANE-TETRAMETHYLRHODAMINE FLUOROPHORE SUBSTRATE	x-ray	1.4	A;B;C;D	p0a3g3;p0a3g3;p0a3g3;p0a3g3	293;293;293;293	4..293;4..293;4..293;4..293	34..158;34..158;34..158;34..158
+6zvw	pdb	X-RAY STRUCTURE OF THE HALOALKANE DEHALOGENASE HALOTAG7-Q165H LABELED WITH A CHLOROALKANE-TETRAMETHYLRHODAMINE FLUOROPHORE SUBSTRATE	x-ray	1.6	A;B	p0a3g3;p0a3g3	293;293	4..293;4..293	34..158;34..158
+6zvx	pdb	X-RAY STRUCTURE OF THE HALOALKANE DEHALOGENASE HALOTAG7-Q165H-P174L LABELED WITH A CHLOROALKANE-TETRAMETHYLRHODAMINE FLUOROPHORE SUBSTRATE	x-ray	1.4	A	p0a3g3	293	4..293	34..158
+6zvy	pdb	X-RAY STRUCTURE OF THE HALOALKANE DEHALOGENASE HALOTAG7-Q165H-P174R LABELED WITH A CHLOROALKANE-TETRAMETHYLRHODAMINE FLUOROPHORE SUBSTRATE	x-ray	1.4	A;B	p0a3g3;p0a3g3	293;293	4..293;4..293	34..158;34..158
+7a42	pdb	Fluoroacetate Dehalogenase measured by serial synchrotron crystallography	x-ray	1.75	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+7a43	pdb	Fluoroacetate Dehalogenase measured by serial femtosecond crystallography	x-ray	1.75	A;B	q6nam1;q6nam1	302;302	1..302;1..302	32..270;32..270
+7a7g	pdb	Soluble epoxide hydrolase in complex with TK90	x-ray	2.4	A;B	p34913;p34913	555;555	219..219,222..555;219..219,222..555	259..531;259..531
+7ac0	pdb	Epoxide hydrolase CorEH without ligand	x-ray	2.177	AAA;BBB;CCC;DDD;EEE;FFF;GGG;HHH	o52866;o52866;o52866;o52866;o52866;o52866;o52866;o52866	286;286;286;286;286;286;286;286	1..286;1..286;1..286;1..286;1..286;1..286;1..286;1..286	27..123;27..123;27..123;27..123;27..123;27..123;27..123;27..123
+7al5	pdb	Crystal structure of the selenomethionine substituted hypothetical protein PA1622 from Pseudomonas aeruginosa PAO1	x-ray	2.42	A;B;C;D	q9i3a0;q9i3a0;q9i3a0;q9i3a0	286;286;286;286	1..286;1..286;1..286;1..286	28..137;28..137;28..137;28..137
+7al6	pdb	Crystal structure of the hypothetical protein PA1622 from Pseudomonas aeruginosa PAO1	x-ray	2.1	A;B;C;D	q9i3a0;q9i3a0;q9i3a0;q9i3a0	286;286;286;286	1..286;1..286;1..286;1..286	28..137;28..137;28..137;28..137
+7avr	pdb	The tetrameric structure of haloalkane dehalogenase DpaA from Paraglaciecola agarilytica NO2	x-ray	2	A;B;C;D;E;F;G;H	k6xnl5;k6xnl5;k6xnl5;k6xnl5;k6xnl5;k6xnl5;k6xnl5;k6xnl5	301;301;301;301;301;301;301;301	1..1,3..301;1..1,3..301;1..1,3..301;1..1,3..301;1..1,3..301;1..1,3..301;1..1,3..301;1..1,3..301	50..286;50..286;50..286;50..286;50..286;50..286;50..286;50..286
+7c4d	pdb	Marine microorganism esterase	x-ray	2.03	A	a0a2s1gux0	269	2..261	15..111
+7c8l	pdb	Hybrid designing of potent inhibitors of Striga strigolactone receptor ShHTL7	x-ray	1.45	A	a0a0m3pna2	271	1..271	20..256
+7cg2	pdb	Vigna radiata Epoxide hydrolase mutant	x-ray	2.001	B	a0a0r5nga4	318	5..318	25..142
+7cg6	pdb	Vigna radiata Epoxide hydrolase mutant M263Q	x-ray	2	B	a0a0r5nga4	318	5..318	25..142
+7clz	pdb	Crystal structure of Alp1U W187F/Y247F in complex with fluostatin C	x-ray	2.10001	A;B;C;D	a0a0k2ajy3;a0a0k2ajy3;a0a0k2ajy3;a0a0k2ajy3	326;326;326;326	8..326;8..326;8..326;8..326	72..174;72..174;72..174;72..174
+7cof	pdb	Cholesterol esterase from Burkholderia stabilis (orthorhombic crystal form)	x-ray	1.084	A	a0a1y1bqv9	364	45..364	54..310
+7cog	pdb	Cholesterol esterase from Burkholderia stabilis (monoclinic crystal form)	x-ray	2.098	A;B;C;D	a0a1y1bqv9;a0a1y1bqv9;a0a1y1bqv9;a0a1y1bqv9	364;364;364;364	45..364;45..364;45..364;45..364	54..310;54..310;54..310;54..310
+7dbi	pdb	Crystal structure of the peroxisomal acyl-CoA hydrolase MpaH	x-ray	1.99	A;B;C;D	a0a0b5lb55;a0a0b5lb55;a0a0b5lb55;a0a0b5lb55	433;433;433;433	1..433;1..433;1..433;1..433	57..245;57..245;57..245;57..245
+7dbl	pdb	Acyl-CoA hydrolase MpaH' mutant S139A in complex with MPA	x-ray	1.84	A;B;C;D	a0a0b5lb55;a0a0b5lb55;a0a0b5lb55;a0a0b5lb55	433;433;433;433	1..433;1..433;1..433;1..433	57..245;57..245;57..245;57..245
+7jqx	pdb	Crystal structure of Cfl1 wild-type from Burkholderia cenocepacia	x-ray	2.2	A;B;C;D	b4ejl9;b4ejl9;b4ejl9;b4ejl9	309;309;309;309	1..309;1..309;1..309;1..309	51..160;51..160;51..160;51..160
+7jqy	pdb	Crystal structure of Cfl1-D123S from Burkholderia cenocepacia	x-ray	2.15	A;B;C;D;E;F;G;H	b4ejl9;b4ejl9;b4ejl9;b4ejl9;b4ejl9;b4ejl9;b4ejl9;b4ejl9	309;309;309;309;309;309;309;309	1..309;1..309;1..309;1..309;1..309;1..309;1..309;1..309	51..160;51..160;51..160;51..160;51..160;51..160;51..160;51..160
+7jqz	pdb	Crystal structure of Cfl2 wild-type from Burkholderia cenocepacia	x-ray	2.2	A;B;C;D;E;F;G;H;I;J	b1k378;b1k378;b1k378;b1k378;b1k378;b1k378;b1k378;b1k378;b1k378;b1k378	309;309;309;309;309;309;309;309;309;309	1..309;1..309;1..309;1..309;1..309;1..309;1..309;1..309;1..309;1..309	53..302;53..302;53..302;53..302;53..302;53..302;53..302;53..302;53..302;53..302
+7l4t	pdb	Crystal structure of human monoacylglycerol lipase in complex with compound 1	x-ray	2.2	A;B	a0a0c4dfn3;a0a0c4dfn3	313;313	10..313;10..313	79..94,128..141,142..155,241..255;79..94,128..141,142..155,241..255
+7l4u	pdb	Crystal structure of human monoacylglycerol lipase in complex with compound 1h	x-ray	2.25	A;B	a0a0c4dfn3;a0a0c4dfn3	313;313	10..313;10..313	79..94,128..141,142..155,241..255;79..94,128..141,142..155,241..255
+7l4w	pdb	Crystal structure of human monoacylglycerol lipase in complex with compound 2d	x-ray	2.2	A;B	a0a0c4dfn3;a0a0c4dfn3	313;313	10..313;10..313	79..94,128..141,142..155,241..255;79..94,128..141,142..155,241..255
+7l50	pdb	Crystal structure of human monoacylglycerol lipase in complex with compound 4f	x-ray	2.3	A;B;C;D	a0a0c4dfn3;a0a0c4dfn3;a0a0c4dfn3;a0a0c4dfn3	313;313;313;313	10..313;10..313;10..313;10..313	79..94,128..141,142..155,241..255;79..94,128..141,142..155,241..255;79..94,128..141,142..155,241..255;79..94,128..141,142..155,241..255
+7ld8	pdb	Crystal Structure of Putative non-heme bromoperoxidase BpoC from Mycobacterium tuberculosis H37Rv	x-ray	1.5	A	p9wnh1	262	2..262	15..250
+7o3o	pdb	Structure of haloalkane dehalogenase mutant DhaA80(T148L, G171Q, A172V, C176F) from Rhodococcus rhodochrous with ionic liquid	x-ray	1.25	A	p0a3g2	293	1..293	34..158
+7o8b	pdb	Structure of haloalkane dehalogenase variant DhaA80 from Rhodococcus rhodochrous	x-ray	1.75	A	p0a3g2	293	4..293	34..158
+7ond	pdb	HaloTag Engineering for Enhanced Fluorogenicity and Kinetics with a Styrylpyridine Dye	x-ray	1.45	A;B	p0a3g3;p0a3g3	293;293	1..1,3..293;1..1,3..293	34..158;34..158
+7oo4	pdb	HaloTag Engineering for Enhanced Fluorogenicity and Kinetics with a Styrylpyridine Dye	x-ray	2.1	A	p0a3g3	293	1..1,3..293	34..158
+7ots	pdb	Crystal structure of human Monoacylglycerol Lipase ABHD6 in complex with oleic acid and octyl glucoside	x-ray	1.792	A;B	q9bv23;q9bv23	337;337	43..337;43..337	72..313;72..313
+7ozm	pdb	Crystal Structure of mtbMGL K74A (Closed Cap Conformation)	x-ray	2.15	A	o07427	279	1..279	57..72,106..119,120..133,218..232
+7p0y	pdb	Crystal Structure of mtbMGL K74A (Substrate Analog Complex)	x-ray	2.25	A;B	o07427;o07427	279;279	1..279;1..279	57..72,106..119,120..133,218..232;57..72,106..119,120..133,218..232
+7yas	pdb	HYDROXYNITRILE LYASE, LOW TEMPERATURE NATIVE STRUCTURE	x-ray	1.75	A	p52704	257	1..257	5..241
